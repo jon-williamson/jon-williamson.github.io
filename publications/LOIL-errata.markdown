@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lectures on Inductive Logic errata
-permalink: /pages/LOIL-errata.html
+permalink: /publications/LOIL-errata.html
 exclude: true
 ---
 
