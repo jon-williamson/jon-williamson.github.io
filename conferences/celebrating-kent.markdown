@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Celebrating Philosophy at Kent (1965 – 2024)
+title: Celebrating Philosophy at Kent (1965-2024)
 permalink: /conferences/celebrating-kent.html
 exclude: true
 ---
