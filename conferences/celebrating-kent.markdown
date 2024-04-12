@@ -18,7 +18,7 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 09.30 [Richard Norman][RN]  
 10.00 [Sean Sayers][SS] (online)  
-10.30 Larry Chase
+10.30 Larry Chase (online)
 
 11.00 *coffee*
 
