@@ -55,13 +55,13 @@ permalink: /publications/
 <br>
 
 **Articles**
-<p style="text-align: center">See also <a href="../">What's New</a> for my latest articles.</p>
+<p style="text-align: center">See <a href="../">What's New</a> for more recent publications.</p>
 
 <table border="0" width="100%">
 <tbody>
 <tr>
 <td valign="TOP" width="50%">
-<p><i>Causality, Mechanisms &amp; Scientific Discovery</i></p> <br>
+<p><b><i>Causality, Mechanisms &amp; Scientific Discovery</i></b></p> <br>
 
 <p>Daniel Auker-Howlett and Jon Williamson: <strong><a title="As the COVID-19 pandemic has demonstrated, barriers to vaccination uptake are heterogeneous and vary according to the local context. We argue that a more systematic consideration of local social and behavioural mechanisms could improve the development, assessment and refinement of vaccination uptake interventions. The EBM+ approach to evidence appraisal, which is a development of a recent line of work on the epistemology of causality, provides a means to evaluate mechanistic studies and their role in assessing the effectiveness of an intervention. We argue that an EBM+ methodology offers several potential benefits for research on vaccination uptake interventions. It also motivates the use of detailed mechanistic models, rather than the high-level logic models used by process evaluations, for example.">Vaccination uptake interventions: an EBM+ approach</a></strong>, <em>Argumenta</em> 7(1): 79-96, 2021. <a href="https://www.argumenta.org/wp-content/uploads/2021/12/4-Argumenta-7-1-Daniel-Auker-Howlett-and-Jon-Williamson-Vaccination-Uptake-Interventions.pdf"><img class="alignnone" src="../images/openaccess.jpg" alt="" width="44" height="16" border="0" /><img class="alignnone" src="../images/acrobat.gif" alt="" width="16" height="16" border="0" /></a> . doi: <a href="https://doi.org/10.14275/2465-2334/202113.auk">10.14275/2465-2334/202113.auk</a> </p>
 
@@ -153,7 +153,7 @@ permalink: /publications/
 
 &nbsp;</td>
 <td valign="top" width="50%">
-<p><i>Probability, Logic &amp; Formal Epistemology</i></p> <br>
+<p><b><i>Probability, Logic &amp; Formal Epistemology</i></b></p> <br>
 
 
 <p>Juergen Landes, Soroush Rafiee Rad and Jon Williamson: <strong><a title="The maximum entropy principle is widely used to determine non-committal probabilities on a finite domain, subject to a set of constraints, but its application to continuous domains is notoriously problematic. This paper concerns an intermediate case, where the domain is a first-order predicate language. Two strategies have been put forward for applying the maximum entropy principle on such a domain: (i) applying it to finite sublanguages and taking the pointwise limit of the resulting probabilities as the size n of the sublanguage increases; (ii) selecting a probability function on the language as a whole whose entropy on finite sublanguages of size n is not dominated by that of any other probability function for sufficiently large n. The entropy-limit conjecture says that, where these two approaches yield determinate probabilities, the two methods yield the same probabilities. If this conjecture is found to be true, it would provide a boost to the project of seeking a single canonical inductive logic—a project which faltered when Carnap’s attempts in this direction succeeded only in determining a continuum of inductive methods. The truth of the conjecture would also boost the project of providing a canonical characterisation of normal or default models of first-order theories. Hitherto, the entropy-limit conjecture has been verified for languages which contain only unary predicate symbols and also for the case in which the constraints can be captured by a categorical statement of Σ 1 quantifier complexity. This paper shows that the entropy-limit conjecture also holds for categorical statements of Π 1 complexity, for various non-categorical constraints, and in certain other general situations.">Towards the Entropy-Limit Conjecture</a></strong>, <em>Annals of Pure and Applied Logic</em> 172(2):102870, 2021. <a href="https://www.sciencedirect.com/science/article/pii/S0168007220300944/pdfft?isDTMRedir=true&amp;download=true"><img class="alignnone" src="../images/openaccess.jpg" alt="" width="44" height="16" border="0" /><img class="alignnone" src="../images/acrobat.gif" alt="" width="16" height="16" border="0" /></a> . doi: <a href="https://doi.org/10.1016/j.apal.2020.102870">10.1016/j.apal.2020.102870</a></p>

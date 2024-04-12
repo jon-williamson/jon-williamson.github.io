@@ -14,6 +14,8 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 **Programme**
 
+*Please note that the draft programme below is subject to change.*
+
 09.20 Welcome. [David Corfield][DC], Head of Philosophy at Kent
 
 09.30 [Richard Norman][RN]  
