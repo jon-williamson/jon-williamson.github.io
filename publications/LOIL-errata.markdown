@@ -5,7 +5,7 @@ permalink: /publications/LOIL-errata.html
 exclude: true
 ---
 
-<a href="http://blogs.kent.ac.uk/jonw/files/2015/01/LOIL-1.jpg"><img style="float: right;"  src="http://blogs.kent.ac.uk/jonw/files/2015/01/LOIL-1.jpg" alt="" width="180" height="272" /></a> Here are some errata for my book <a href="https://global.oup.com/academic/product/lectures-on-inductive-logic-9780199666478?cc=gb&amp;lang=en&amp;"><strong>Lectures on inductive logic</strong></a>, Oxford University Press, 2017. I'd be very grateful if you could <a href="mailto:j.williamson@kent.ac.uk">let me know</a> of any other mistakes or typos.
+<a href="https://global.oup.com/academic/product/lectures-on-inductive-logic-9780199666478"><img style="float: right;"  src="images/LOIL.jpg" alt="" width="180" height="272" /></a> Here are some errata for my book <a href="https://global.oup.com/academic/product/lectures-on-inductive-logic-9780199666478?cc=gb&amp;lang=en&amp;"><strong>Lectures on inductive logic</strong></a>, Oxford University Press, 2017. I'd be very grateful if you could <a href="mailto:j.williamson@kent.ac.uk">let me know</a> of any other mistakes or typos.
 
 p.8. line 2 from bottom should begin "it has".
 
