@@ -3,12 +3,11 @@ layout: page
 title: Bayesian Nets and Causality errata
 permalink: /publications/BNAC-errata.html
 exclude: true
-classes: wide
 ---
 
 <h3>Preface</h3>
 
-<a href="http://blogs.kent.ac.uk/jonw/files/2015/04/bnac_big.jpg"><img style="float: right;" src="images/bnac.jpg" alt="bnac_big" width="198" height="300" /></a>
+<a href="images/bnac.jpg"><img style="float: right;" src="images/bnac.jpg" alt="bnac_big" width="198" height="300" /></a>
 How should we reason with causal relationships? Much recent work on this question has been devoted to the theses (i) that Bayesian nets provide a calculus for causal reasoning and (ii) that we can learn causal relationships by the automated learning of Bayesian nets from observational data. The aim of this book is to present coherent foundations for such work.
 
 After an overview of the book in Chapter 1, Chapter 2 provides an introduction to probability and its interpretations. Chapter 3 introduces Bayesian nets and Chapter 4 discusses the problems that beset current proposals for their use in causal reasoning. This book presents new foundations for Bayesian nets based on the objective Bayesian interpretation of probability, according to which probabilities represent the degrees of belief that an agent ought to adopt (Chapter 5). This interpretation leads naturally to a two-stage methodology for constructing Bayesian nets, where one first appeals to causal knowledge to generate a Bayesian net and then refines this net in the light of new information (Chapter 6).
