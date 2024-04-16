@@ -59,7 +59,7 @@ permalink: /publications/
 <br>
 
 **Articles**
-<p style="text-align: center">See <a href="../">What's New</a> for more recent publications.</p>
+<p style="text-align: center">See <a href="../">What's New</a> for more recent articles.</p>
 
 <table border="0" width="100%">
 <tbody>
