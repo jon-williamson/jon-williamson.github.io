@@ -38,10 +38,10 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 16.00 [Camillia Kong][CK] (Queen Mary)  
 16.30 [Tom Angier][TA] (Cape Town, online)  
-17.00 [Juergen Landes][JL] (LMU, online)  
-17.30 [George Darby][GD] (Oxford Brookes)
+17.00 [George Darby][GD] (Oxford Brookes)
+<!---17.30 [Juergen Landes][JL] (LMU, online)  --->
 
-18.00 *reception*
+17.30 *reception*
 
 <br/><br/>
 <a href="kent-view.jpg"><img style="float: center;"  src="kent-view.jpg"/></a>
