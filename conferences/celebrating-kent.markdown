@@ -26,7 +26,7 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 11.30 [Edward Harcourt][EH] (Oxford)  
 12.00 [Julia Tanney][JT]  
-12.30 tbc
+12.30 [Graeme Forbes][GF]: Time and opportunity
 
 13.00 *lunch*
 
@@ -61,4 +61,5 @@ Talks will focus on achievements of the Kent philosophy department or the import
 [TA]: https://humanities.uct.ac.za/department-philosophy/contacts/tom-angier
 [GD]: https://www.brookes.ac.uk/profiles/staff/george-darby/
 [JL]: https://www.osc.uni-muenchen.de/members/individual_members/associated-members/landes1/index.html
+[GF]: https://www.kent.ac.uk/philosophy/people/1686/forbes-graeme-a
 
