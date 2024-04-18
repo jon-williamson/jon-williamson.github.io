@@ -7,9 +7,14 @@ title: What's New
 ---
 <br/>
 
+__Conference__:
+
+[**Celebrating Philosophy at Kent (1965-2024)**](/conferences/celebrating-kent.html)
+<br/><br/>
+
 __Research project__:
 
-EBL+: New philosophical foundations for evidence-based law (Leverhulme Trust 2023-26)
+[**EBL+: New philosophical foundations for evidence-based law**](https://blogs.kent.ac.uk/jonw/eblplus/) (Leverhulme Trust 2023-26)
 <br/><br/>
 
 __Monograph__:
