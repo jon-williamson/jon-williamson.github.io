@@ -5,9 +5,9 @@ permalink: /conferences/celebrating-kent.html
 exclude: true
 ---
 
-<a href="old-kent-logo.png"><img style="float: right;"  src="old-kent-logo.png" alt="" width="240" height="240" /></a> 14 June 2024, [Grimond Lecture Theatre 3][GLT3], University of Kent
+14 June 2024, [Grimond Lecture Theatre 3][GLT3], University of Kent, and online.
 
-To mark the end of philosophy at the University of Kent, we are holding a one-day workshop to celebrate the work of the department.
+<a href="old-kent-logo.png"><img style="float: right;"  src="old-kent-logo.png" alt="" width="240" height="240" /></a> To mark the end of philosophy at the University of Kent, we are holding a one-day workshop to celebrate the work of the department.
 
 Talks will focus on achievements of the Kent philosophy department or the importance of philosophy to higher education and/or society.
 <br><br>
@@ -32,7 +32,7 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 14.00 [Simon Kirchin][SK] (Leeds)  
 14.30 [Graeme Forbes][GF]: Time and opportunity  
-15.00 [Todd Mei][TM]: Hermeneutics and AI
+15.00 [Todd Mei][TM] (online): Hermeneutics and AI
 
 15.30 *coffee*
 
@@ -45,9 +45,12 @@ Talks will focus on achievements of the Kent philosophy department or the import
 18.00 *reception*
 
 <br/><br/>
-<a href="kent-view.jpg"><img style="float: center;"  src="kent-view.jpg"/></a>
 
+**Registration**
 
+Registration is free and everyone is welcome.  
+If you would like to attend in person, please let [Alexandra Trofimov know][eAT] by 13th May, so that we can get a firm idea of numbers for catering purposes.  
+If you would like to attend online, please [contact Jon Williamson][eJW] who can provide a teams link.
 
 [GLT3]: https://www.kent.ac.uk/maps/canterbury/canterbury-campus/building/grimond-building/glt3
 [DC]: https://www.kent.ac.uk/philosophy/people/1689/corfield-david
@@ -65,4 +68,9 @@ Talks will focus on achievements of the Kent philosophy department or the import
 [GF]: https://www.kent.ac.uk/philosophy/people/1686/forbes-graeme-a
 [TM]: https://www.kent.ac.uk/philosophy/people/1683/mei-todd
 [LR]: https://www.kent.ac.uk/philosophy/people/1609/radoilska-lubomira
+[eJW]: mailto:j.williamson@kent.ac.uk
+[eAT]: mailto:A.Trofimov-692@kent.ac.uk
 
+<br/><br/>
+
+<a href="kent-view.jpg"><img style="float: center;"  src="kent-view.jpg"/></a>
