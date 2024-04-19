@@ -56,7 +56,7 @@ If you would like to attend online, please [contact Jon Williamson][eJW] who can
 
 **Acknowledgements**
 
-The conference is made possible by the generous support of the [Society for Applied Philosophy[SAP] and the [Mind Association][Mind].
+The conference is made possible by the generous support of the [Society for Applied Philosophy][SAP] and the [Mind Association][Mind].
 
 <br/><br/>
 
