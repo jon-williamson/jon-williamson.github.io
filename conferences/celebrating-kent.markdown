@@ -50,7 +50,7 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 Registration is free and everyone is welcome.  
 If you would like to attend in person, please let [Alexandra Trofimov know][eAT] by 13th May, so that we can get a firm idea of numbers for catering purposes.  
-If you would like to attend online, please [contact Jon Williamson][eJW] who can provide a teams link.
+If you would like to attend online, please [contact Alexandra Trofimov][eAT] who can provide a Teams link.
 
 <br/><br/>
 
