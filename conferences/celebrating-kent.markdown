@@ -52,6 +52,17 @@ Registration is free and everyone is welcome.
 If you would like to attend in person, please let [Alexandra Trofimov know][eAT] by 13th May, so that we can get a firm idea of numbers for catering purposes.  
 If you would like to attend online, please [contact Jon Williamson][eJW] who can provide a teams link.
 
+<br/><br/>
+
+**Acknowledgements**
+
+The conference is made possible by the generous support of the [Society for Applied Philosophy[SAP] and the [Mind Association][Mind].
+
+<br/><br/>
+
+<a href="kent-view.jpg"><img style="float: center;"  src="kent-view.jpg"/></a>
+
+
 [GLT3]: https://www.kent.ac.uk/maps/canterbury/canterbury-campus/building/grimond-building/glt3
 [DC]: https://www.kent.ac.uk/philosophy/people/1689/corfield-david
 [RN]: https://www.kent.ac.uk/philosophy/people/1673/norman-richard
@@ -70,7 +81,7 @@ If you would like to attend online, please [contact Jon Williamson][eJW] who can
 [LR]: https://www.kent.ac.uk/philosophy/people/1609/radoilska-lubomira
 [eJW]: mailto:j.williamson@kent.ac.uk
 [eAT]: mailto:A.Trofimov-692@kent.ac.uk
+[SAP]: https://www.appliedphil.org/
+[Mind]: https://mindassociation.org/
 
-<br/><br/>
 
-<a href="kent-view.jpg"><img style="float: center;"  src="kent-view.jpg"/></a>
