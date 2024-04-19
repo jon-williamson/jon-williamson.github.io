@@ -43,6 +43,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-target-blank
 
+# Whitelist plugins under safe mode.
+whitelist:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-target-blank
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
