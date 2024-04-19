@@ -7,7 +7,7 @@ exclude: true
 
 14 June 2024, [Grimond Lecture Theatre 3][GLT3], University of Kent, and online.
 
-<a href="old-kent-logo.png"><img style="float: right;"  src="old-kent-logo.png" alt="" width="240" height="240" /></a> To mark the end of philosophy at the University of Kent, we are holding a one-day workshop to celebrate the work of the department.
+<a href="old-kent-logo.png"><img style="float: right;"  src="old-kent-logo.png" alt="" width="240" height="240" /></a> Marking the end of philosophy at the University of Kent, we are holding a one-day workshop to celebrate the work of the department.
 
 Talks will focus on achievements of the Kent philosophy department or the importance of philosophy to higher education and/or society.
 <br><br>
