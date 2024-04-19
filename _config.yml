@@ -26,7 +26,7 @@ address: >- # this means to ignore newlines until "baseurl:"
   Professor of Reasoning, Inference and Scientific Method, Philosophy, Kent
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://jon-williamson.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://jonwilliamson.uk/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jonwilliamson.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Jon_Williamson_
 github_username:  jon-williamson
 address_url: "https://www.kent.ac.uk/philosophy/people/1678/williamson-jon"
