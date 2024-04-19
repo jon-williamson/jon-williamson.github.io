@@ -18,7 +18,7 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 09.20 Welcome. [David Corfield][DC], Head of Philosophy at Kent
 
-09.30 [Richard Norman][RN]  
+09.30 [Richard Norman][RN]: Engaged Philosophy: "Sex, Madness, and the Absurd"  
 10.00 [Sean Sayers][SS] (online)  
 10.30 Larry Chase (online)
 
@@ -26,22 +26,23 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 11.30 [Edward Harcourt][EH] (Oxford)  
 12.00 [Julia Tanney][JT]  
-12.30 [Graeme Forbes][GF]: Time and opportunity
+12.30 [Phyllis Illari][PI] (UCL) & [Federica Russo][FR] (Utrecht, online)  
 
 13.00 *lunch*
 
 14.00 [Simon Kirchin][SK] (Leeds)  
-14.30 [Federica Russo][FR] (Utrecht, online)  
-15.00 [Phyllis Illari][PI] (UCL)
+14.30 [Graeme Forbes][GF]: Time and opportunity  
+15.00 [Todd Mei][TM]: Hermeneutics and AI
 
 15.30 *coffee*
 
 16.00 [Camillia Kong][CK] (Queen Mary)  
-16.30 [Tom Angier][TA] (Cape Town, online)  
-17.00 [George Darby][GD] (Oxford Brookes)
+16.30 [Tom Angier][TA] (Cape Town, online): Two threats to Philosophy: bifurcation and balkanisation  
+17.00 [George Darby][GD] (Oxford Brookes)  
+17.30 [Lubomira Radoilska][LR]: Philosophy as Co-Creation 
 <!---17.30 [Juergen Landes][JL] (LMU, online)  --->
 
-17.30 *reception*
+18.00 *reception*
 
 <br/><br/>
 <a href="kent-view.jpg"><img style="float: center;"  src="kent-view.jpg"/></a>
@@ -62,4 +63,6 @@ Talks will focus on achievements of the Kent philosophy department or the import
 [GD]: https://www.brookes.ac.uk/profiles/staff/george-darby/
 [JL]: https://www.osc.uni-muenchen.de/members/individual_members/associated-members/landes1/index.html
 [GF]: https://www.kent.ac.uk/philosophy/people/1686/forbes-graeme-a
+[TM]: https://www.kent.ac.uk/philosophy/people/1683/mei-todd
+[LR]: https://www.kent.ac.uk/philosophy/people/1609/radoilska-lubomira
 
