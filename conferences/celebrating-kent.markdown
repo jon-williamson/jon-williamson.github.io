@@ -16,33 +16,36 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 *Please note that the draft programme below is subject to change.*
 
-09.20 Welcome. [David Corfield][DC], Head of Philosophy at Kent
+09.00 *coffee*
 
-09.30 [Richard Norman][RN]: Engaged Philosophy: "Sex, Madness, and the Absurd"  
-10.00 [Sean Sayers][SS] (online): TBC  
-10.30 Larry Chase (online): TBC
+09.15 Welcome. [David Corfield][DC], Head of Philosophy at Kent
 
-11.00 *coffee*
+09.25 [Richard Norman][RN]: Engaged Philosophy: "Sex, Madness, and the Absurd"  
+09.50 [Sean Sayers][SS] (online): TBC  
+10.15 Larry Chase (online): TBC
 
-11.30 [Edward Harcourt][EH] (Oxford): TBC  
-12.00 [Julia Tanney][JT]: TBC  
-12.30 [Phyllis Illari][PI] (UCL) & [Federica Russo][FR] (Utrecht, online): Causal reasoning  
+10.40 *coffee*
 
-13.00 *lunch*
+11.00 [Edward Harcourt][EH] (Oxford): TBC  
+11.25 [Julia Tanney][JT]: TBC  
+11.50 [Phyllis Illari][PI] (UCL) & [Federica Russo][FR] (Utrecht, online): Causal reasoning  
+12.15 [Jason Konek][JK] (Bristol): TBC
+
+12.40 *lunch*
 
 14.00 [Simon Kirchin][SK] (Leeds): TBC  
-14.30 [Graeme Forbes][GF]: Time and opportunity  
-15.00 [Todd Mei][TM] (online): Hermeneutics and AI
+14.25 [Graeme Forbes][GF]: Time and opportunity  
+14.50 [Todd Mei][TM] (online): Hermeneutics and AI
 
-15.30 *coffee*
+15.15 *coffee*
 
-16.00 [Camillia Kong][CK] (Queen Mary): TBC  
-16.30 [Tom Angier][TA] (Cape Town, online): Two threats to Philosophy: bifurcation and balkanisation  
-17.00 [George Darby][GD] (Oxford Brookes): TBC  
-17.30 [Lubomira Radoilska][LR]: Philosophy as Co-Creation 
+15.35 [Camillia Kong][CK] (Queen Mary): TBC  
+16.00 [Tom Angier][TA] (Cape Town, online): Two threats to Philosophy: bifurcation and balkanisation  
+16.25 [George Darby][GD] (Oxford Brookes): TBC  
+16.50 [Lubomira Radoilska][LR]: Philosophy as Co-Creation 
 <!---17.30 [Juergen Landes][JL] (LMU, online)  --->
 
-18.00 *reception*
+17.15 *reception*
 
 <br/><br/>
 
@@ -83,5 +86,5 @@ The conference is made possible by the generous support of the [Society for Appl
 [eAT]: mailto:A.Trofimov-692@kent.ac.uk
 [SAP]: https://www.appliedphil.org/
 [Mind]: https://mindassociation.org/
-
+[JK]: https://www.bristol.ac.uk/people/person/Jason-Konek-5f389579-51a1-4c8e-8073-9d023e1021cc/
 
