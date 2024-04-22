@@ -11,7 +11,7 @@
   {%- if site.youtube_username -%}<li><a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> <span class="username">{{ site.youtube_username| escape }}</span></a></li>{%- endif -%}
   {%- if site.googleplus_username -%}<li><a href="https://plus.google.com/{{ site.googleplus_username| escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#googleplus' | relative_url }}"></use></svg> <span class="username">{{ site.googleplus_username| escape }}</span></a></li>{%- endif -%}
   {%- if site.rss -%}<li><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a></li>{%- endif -%}
-  {%- if site.scholar -%}<li><i class="ai ai-google-scholar"></i> <a href="https://scholar.google.co.uk/citations?user={{ site.scholar | escape }}"><span class="username">{{ site.scholar| escape }}</span></a></li>{%- endif -%}
-  {%- if site.orcid -%}<li><i class="ai ai-orcid"></i> <a href="https://orcid.org/{{ site.orcid | escape }}"><span class="username">{{ site.orcid| escape }}</span></a></li>{%- endif -%}
+  {%- if site.orcid -%}<li><i class="ai ai-orcid"></i>&nbsp; <a href="https://orcid.org/{{ site.orcid | escape }}"><span class="username">{{ site.orcid| escape }}</span></a></li>{%- endif -%}
+  {%- if site.scholar -%}<li><i class="ai ai-google-scholar"></i>&nbsp;&nbsp; <a href="https://scholar.google.co.uk/citations?user={{ site.scholar | escape }}"><span class="username">{{ site.scholar| escape }}</span></a></li>{%- endif -%}
 
 </ul>
