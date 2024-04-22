@@ -26,7 +26,7 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 11.30 [Edward Harcourt][EH] (Oxford): TBC  
 12.00 [Julia Tanney][JT]: TBC  
-12.30 [Phyllis Illari][PI] (UCL) & [Federica Russo][FR] (Utrecht, online): TBC  
+12.30 [Phyllis Illari][PI] (UCL) & [Federica Russo][FR] (Utrecht, online): Causal reasoning  
 
 13.00 *lunch*
 
