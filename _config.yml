@@ -21,7 +21,7 @@
 title: Jon Williamson
 email: j.williamson@kent.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Philosophies of Science, Medicine, AI and Law; Epistemology; Metaphysics;  Logic
+  Philosophy of Science, Medicine, AI and Law; Epistemology; Metaphysics;  Logic
 address: >- # this means to ignore newlines until "baseurl:"
   Professor of Reasoning, Inference and Scientific Method, Philosophy, Kent
 baseurl: "" # the subpath of your site, e.g. /blog
