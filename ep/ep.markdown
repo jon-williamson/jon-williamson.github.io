@@ -16,10 +16,10 @@ For a recent introductory talk on Evidential Pluralism, see
 <p style="padding-left: 40px;"><a href="https://videocast.nih.gov/watch=52416">Video recording</a>. Jon Williamson: <strong>A New Framework for Causal Inference in the Health and Social Sciences</strong>, <a href="https://calendar.nih.gov/event/view/43740">National Institutes of Health</a>. 16 November 2023.</p>
 
 Evidential Pluralism is a collaborative research programme. Please get in touch if you'd like to be involved.
-<center>
-<a href="images/EP-logo.jpg"><img  src="images/EP-logo.jpg" alt="" width="175" height="75"  border="0" /></a>
-</center>
 
+<center>
+<a href="images/divider.jpg"><img  src="images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
+</center>
 
 <br/>
 
@@ -43,8 +43,9 @@ Recent papers on this approach include:
  	<li>Duna Sabri: <strong>Rethinking causality and inequality in students’ degree outcomes</strong>, <em>Br</em><span dir="ltr"><em>itish Journal of Sociology of Education</em> 44(3):520-538, 2023. doi: </span><a href="https://dx.doi.org/10.1080/01425692.2023.2179017"><span dir="ltr" role="presentation">10.1080/01425692.2023.2179017</span></a></li>
 </ul>
 
+
 <center>
-<a href="images/EP-logo.jpg"><img  src="images/EP-logo.jpg" alt="" width="175" height="75"  border="0" /></a>
+<a href="images/divider.jpg"><img  src="images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
 </center>
 
 <br/>
@@ -77,7 +78,13 @@ For more detail, see the research projects:
  	<li><a title="Mechanisms and the Evidence Hierarchy" href="https://blogs.kent.ac.uk/jonw/mechanisms-and-the-evidence-hierarchy/"><strong>Mechanisms and the evidence hierarchy</strong></a> (AHRC 2012)</li>
 </ul>
 </li>
-</ul>
+<!-- </ul>
 <div id="citation-node-146870--2679958366" class="highwire-article-citation highwire-citation-type-highwire-article cite-tool-node146870" data-node-nid="146870" data-pisa="ebmed;27/5/253" data-pisa-master="ebmed;bmjebm-2022-111952" data-apath="/ebmed/27/5/253.atom">
 <div></div>
 </div>
+ -->
+<br/>
+
+<center>
+<a href="images/EP-logo.jpg"><img  src="images/EP-logo.jpg" alt="" width="175" height="75"  border="0" /></a>
+</center>
