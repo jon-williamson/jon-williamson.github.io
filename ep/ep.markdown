@@ -15,7 +15,7 @@ For a quick introduction to Evidential Pluralism and its applications, see
 For a recent introductory talk on Evidential Pluralism, see
 <p style="padding-left: 40px;"><a href="https://videocast.nih.gov/watch=52416">Video recording</a>. Jon Williamson: <strong>A New Framework for Causal Inference in the Health and Social Sciences</strong>, <a href="https://calendar.nih.gov/event/view/43740">National Institutes of Health</a>. 16 November 2023.</p>
 
-</a>Evidential Pluralism is a collaborative research programme. Please get in touch if you'd like to be involved.
+Evidential Pluralism is a collaborative research programme. Please get in touch if you'd like to be involved.
 <center>
 <a href="images/EP-logo.jpg"><img  src="images/EP-logo.jpg" alt="" width="175" height="75"  border="0" /></a>
 </center>
@@ -43,7 +43,9 @@ Recent papers on this approach include:
  	<li>Duna Sabri: <strong>Rethinking causality and inequality in students’ degree outcomes</strong>, <em>Br</em><span dir="ltr"><em>itish Journal of Sociology of Education</em> 44(3):520-538, 2023. doi: </span><a href="https://dx.doi.org/10.1080/01425692.2023.2179017"><span dir="ltr" role="presentation">10.1080/01425692.2023.2179017</span></a></li>
 </ul>
 
-<br/>
+<center>
+<a href="images/EP-logo.jpg"><img  src="images/EP-logo.jpg" alt="" width="175" height="75"  border="0" /></a>
+</center>
 
 <br/>
 
