@@ -18,20 +18,21 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 09.00 *coffee*
 
-09.15 Welcome. [David Corfield][DC], Head of Philosophy at Kent
+09.10 Welcome. [David Corfield][DC], Head of Philosophy at Kent
 
-09.25 [Richard Norman][RN]: Engaged Philosophy: "Sex, Madness, and the Absurd"  
-09.50 [Sean Sayers][SS] (online): TBC  
-10.15 Larry Chase (online): TBC
+09.20 [Richard Norman][RN]: Engaged Philosophy: "Sex, Madness, and the Absurd"  
+09.45 [Sean Sayers][SS] (online): TBC  
+10.10 Larry Chase (online): TBC  
+10.35 [Simon Glendinning][SG] (LSE): Kentish Turns
 
-10.40 *coffee*
+11.00 *coffee*
 
-11.00 [Edward Harcourt][EH] (Oxford): TBC  
-11.25 [Julia Tanney][JT]: TBC  
-11.50 [Phyllis Illari][PI] (UCL) & [Federica Russo][FR] (Utrecht, online): Causal reasoning  
-12.15 [Jason Konek][JK] (Bristol): TBC
+11.20 [Edward Harcourt][EH] (Oxford): TBC  
+11.45 [Julia Tanney][JT]: TBC  
+12.10 [Phyllis Illari][PI] (UCL) & [Federica Russo][FR] (Utrecht, online): Causal reasoning  
+12.35 [Jason Konek][JK] (Bristol): TBC
 
-12.40 *lunch*
+13.00 *lunch*
 
 14.00 [Simon Kirchin][SK] (Leeds): TBC  
 14.25 [Graeme Forbes][GF]: Time and opportunity  
@@ -87,4 +88,5 @@ The conference is made possible by the generous support of the [Society for Appl
 [SAP]: https://www.appliedphil.org/
 [Mind]: https://mindassociation.org/
 [JK]: https://www.bristol.ac.uk/people/person/Jason-Konek-5f389579-51a1-4c8e-8073-9d023e1021cc/
+[SG]: https://www.lse.ac.uk/european-institute/people/glendinning-simon
 
