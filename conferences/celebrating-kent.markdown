@@ -21,7 +21,7 @@ Talks will focus on achievements of the Kent philosophy department or the import
 09.10 Welcome. [David Corfield][DC], Head of Philosophy at Kent
 
 09.20 [Richard Norman][RN]: Engaged Philosophy: "Sex, Madness, and the Absurd"  
-09.45 [Sean Sayers][SS] (online): TBC  
+09.45 [Sean Sayers][SS] (online): My time in philosophy at the University of Kent  
 10.10 Larry Chase (online): TBC  
 10.35 [Simon Glendinning][SG] (LSE): Kentish Turns
 
