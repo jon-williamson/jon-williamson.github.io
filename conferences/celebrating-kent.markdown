@@ -34,7 +34,7 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 13.00 *lunch*
 
-14.00 [Simon Kirchin][SK] (Leeds): TBC  
+14.00 [Simon Kirchin][SK] (Leeds): Philosophy's place in a University  
 14.25 [Graeme Forbes][GF]: Time and opportunity  
 14.50 [Todd Mei][TM] (online): Hermeneutics and AI
 
