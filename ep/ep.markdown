@@ -5,7 +5,7 @@ permalink: /ep/index.html
 exclude: true
 ---
 
-<a href="images/EP.jpg"><img style="float: right;"  src="images/EP.jpg" alt="A diagrammatic representation of Evidential Pluralism" width="373" height="277" /></a>Evidential Pluralism is a theory of causal enquiry. It holds that:
+<a href="images/EP2.png"><img style="float: right;"  src="images/EP2.png" alt="A diagrammatic representation of Evidential Pluralism" width="350" height="255" /></a>Evidential Pluralism is a theory of causal enquiry. It holds that:
 - Establishing causation normally requires establishing that the putative cause and effect are both appropriately correlated and connected by an appropriate mechanism ('object pluralism');
 - So, evaluating causation requires scrutinising both association studies and mechanistic studies, where available ('study pluralism').
 
