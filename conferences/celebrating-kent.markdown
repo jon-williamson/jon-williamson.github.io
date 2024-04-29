@@ -28,7 +28,7 @@ Talks will focus on achievements of the Kent philosophy department or the import
 11.00 *coffee*
 
 11.20 [Edward Harcourt][EH] (Oxford): TBC  
-11.45 [Julia Tanney][JT]: TBC  
+11.45 [Julia Tanney][JT]: Understanding Religious Practices: with help from Wittgenstein  
 12.10 [Phyllis Illari][PI] (UCL) & [Federica Russo][FR] (Utrecht, online): Causal reasoning  
 12.35 [Jason Konek][JK] (Bristol): TBC
 
