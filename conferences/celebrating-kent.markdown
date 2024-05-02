@@ -42,7 +42,7 @@ Talks will focus on achievements of the Kent philosophy department or the import
 
 15.35 [Camillia Kong][CK] (Queen Mary): Enriching interdisciplinarity through Philosophy  
 16.00 [Tom Angier][TA] (Cape Town, online): Two threats to Philosophy: bifurcation and balkanisation  
-16.25 [George Darby][GD] (Oxford Brookes): TBC  
+16.25 [George Darby][GD] (Oxford Brookes): Cutting off your nose to spite your face  
 16.50 [Lubomira Radoilska][LR]: Philosophy as Co-Creation 
 <!---17.30 [Juergen Landes][JL] (LMU, online)  --->
 
