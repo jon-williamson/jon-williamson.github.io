@@ -11,7 +11,7 @@ exclude: true
 
 Talks will focus on achievements of the Kent philosophy department or the importance of philosophy to higher education and/or society.
 
-Full details are available [here][https://www.kent.ac.uk/philosophy/celebrating-philosophy-at-kent].
+Full details are available [here][Dept].
 <br><br>
 
 **Programme**
