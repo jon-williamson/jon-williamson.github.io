@@ -10,6 +10,8 @@ exclude: true
 <a href="old-kent-logo.png"><img style="float: right;"  src="old-kent-logo.png" alt="" width="240" height="240" /></a> Marking the end of philosophy at the University of Kent, this one-day workshop will celebrate the work of the department.
 
 Talks will focus on achievements of the Kent philosophy department or the importance of philosophy to higher education and/or society.
+
+Full details are available [here][https://www.kent.ac.uk/philosophy/celebrating-philosophy-at-kent].
 <br><br>
 
 **Programme**
@@ -30,7 +32,7 @@ Talks will focus on achievements of the Kent philosophy department or the import
 11.20 [Edward Harcourt][EH] (Oxford): The Kent School of Philosophy  
 11.45 [Julia Tanney][JT]: Understanding Religious Practices: with help from Wittgenstein  
 12.10 [Phyllis Illari][PI] (UCL) & [Federica Russo][FR] (Utrecht, online): Causal reasoning  
-12.35 [Jason Konek][JK] (Bristol): TBC
+12.35 [Jason Konek][JK] (Bristol): Deliberation and Control
 
 13.00 *lunch*
 
@@ -89,4 +91,5 @@ The conference is made possible by the generous support of the [Society for Appl
 [Mind]: https://mindassociation.org/
 [JK]: https://www.bristol.ac.uk/people/person/Jason-Konek-5f389579-51a1-4c8e-8073-9d023e1021cc/
 [SG]: https://www.lse.ac.uk/european-institute/people/glendinning-simon
+[Dept]: https://www.kent.ac.uk/philosophy/celebrating-philosophy-at-kent
 
