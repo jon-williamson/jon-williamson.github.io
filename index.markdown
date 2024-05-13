@@ -26,7 +26,7 @@ __Monograph__:
 
 <a href="https://link.springer.com/journal/11229/topicalCollection/AC_bdd803aed8f0a49a488f8ef53003e331/page/1"><strong>Evidential Diversity in the Social Sciences</strong></a>, <em>Synthese</em> Topical Collection, 2022.
 
-<a href="https://link.springer.com/journal/13194/topicalCollection/AC_f5aa5d07f23ad209185c18036a326eb5/page/1"><strong>Selected papers from EPSA21</strong></a>, <em>European Journal for the Phiosophy of Science, </em>Topical Collection, 2023.
+<a href="https://link.springer.com/journal/13194/topicalCollection/AC_f5aa5d07f23ad209185c18036a326eb5/page/1"><strong>Selected papers from EPSA21</strong></a>, <em>European Journal for the Philosophy of Science, </em>Topical Collection, 2023.
 <br/><br/>
 
 **New papers**:
