@@ -24,7 +24,7 @@ Full details are available [here][Dept].
 
 09.20 [Richard Norman][RN]: Engaged Philosophy: "Sex, Madness, and the Absurd"  
 09.45 [Sean Sayers][SS] (online): My time in philosophy at the University of Kent  
-10.10 Larry Chase (online): TBC  
+10.10 Larry Chase (online): The Canterbury Tails  
 10.35 [Simon Glendinning][SG] (LSE): Kentish Turns
 
 11.00 *coffee*
