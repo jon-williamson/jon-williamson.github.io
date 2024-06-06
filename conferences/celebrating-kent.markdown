@@ -23,7 +23,7 @@ Full details are available [here][Dept].
 09.10 Welcome. [David Corfield][DC], Head of Philosophy at Kent
 
 09.20 [Richard Norman][RN]: Engaged Philosophy: "Sex, Madness, and the Absurd"  
-09.45 [Sean Sayers][SS] (online): My time in philosophy at the University of Kent  
+09.45 [Sean Sayers][SS]: My time in philosophy at the University of Kent  
 10.10 Larry Chase (online): The Canterbury Tails  
 10.35 [Simon Glendinning][SG] (LSE): Kentish Turns
 
@@ -32,12 +32,12 @@ Full details are available [here][Dept].
 11.20 [Edward Harcourt][EH] (Oxford): The Kent School of Philosophy  
 11.45 [Julia Tanney][JT]: Understanding Religious Practices: with help from Wittgenstein  
 12.10 [Phyllis Illari][PI] (UCL) & [Federica Russo][FR] (Utrecht, online): Causal reasoning  
-12.35 [Jason Konek][JK] (Bristol): Deliberation and Control
+12.35 [Jason Konek][JK] (Bristol, online): Deliberation and Control
 
 13.00 *lunch*
 
 14.00 [Simon Kirchin][SK] (Leeds): Philosophy's place in a University  
-14.25 [Graeme Forbes][GF]: Time and opportunity  
+14.25 [Graeme A. Forbes][GF]: Time and opportunity  
 14.50 [Todd Mei][TM] (online): Hermeneutics and AI
 
 15.15 *coffee*
