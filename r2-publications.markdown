@@ -38,7 +38,7 @@ permalink: /publications/
 
 <span style="color: #800000">Juergen Landes &amp; Jon Williamson</span> (eds): <a href="https://www.mdpi.com/journal/entropy/special_issues/max_log_res"><strong>Maximum Entropy Applied to Inductive Logic and Reasoning</strong></a>, <em>Entropy </em>journal, 2015.
 
-<span style="color: #800000">Phyllis McKay Illari, Federica Russo &amp; Jon Williamson</span> (eds): <strong><a href="https://ukcatalogue.oup.com/product/9780199574131.do">Causality in the sciences</a></strong>, Oxford University Press, [Amazon <a href="https://www.amazon.co.uk/Causality-Sciences-Phyllis-McKay-Illari/dp/0199574138/ref=sr_1_1?ie=UTF8&amp;qid=1300726890&amp;sr=8-1">UK</a> <a href="https://www.amazon.com/Causality-Sciences-Phyllis-McKay-Illari/dp/0199574138/ref=sr_1_1?ie=UTF8&amp;qid=1300726949&amp;sr=1-1-spell">US</a>], 2011.</a>
+<span style="color: #800000">Phyllis McKay Illari, Federica Russo &amp; Jon Williamson</span> (eds): <strong><a href="https://ukcatalogue.oup.com/product/9780199574131.do">Causality in the sciences</a></strong>, Oxford University Press, [Amazon <a href="https://www.amazon.co.uk/Causality-Sciences-Phyllis-McKay-Illari/dp/0199574138/ref=sr_1_1?ie=UTF8&amp;qid=1300726890&amp;sr=8-1">UK</a> <a href="https://www.amazon.com/Causality-Sciences-Phyllis-McKay-Illari/dp/0199574138/ref=sr_1_1?ie=UTF8&amp;qid=1300726949&amp;sr=1-1-spell">US</a>], 2011.
 
 <span style="color: #800000">Jon Williamson &amp; Federica Russo</span> (eds): <strong>Key terms in logic</strong>, <a href="https://www.bloomsbury.com/uk/key-terms-in-logic-9781847061140/">Continuum</a>, 2010.
 

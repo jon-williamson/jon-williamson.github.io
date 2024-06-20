@@ -15,6 +15,6 @@ Long-standing research topics include:
 - [Epistemic Causality][EC] 
 
 [EP]: /ep/
-[OB]: https://blogs.kent.ac.uk/jonw/objective-bayesianism/
-[EC]: https://blogs.kent.ac.uk/jonw/epistemic-causality/
+[OB]: /ob/
+[EC]: /ec/
 
