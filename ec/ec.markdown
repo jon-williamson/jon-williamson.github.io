@@ -5,7 +5,7 @@ permalink: /ec/index.html
 exclude: true
 ---
 
-<img style="float: right;" src="images/telescope.jpg" alt="" width="300"  />I’m developing a metaphysical account of causality that analyses causality in terms of rational causal beliefs.
+<img style="float: right;" src="images/telescope.jpg" alt="" width="300"  />This is a metaphysical account of causality that analyses causality in terms of rational causal beliefs.
 
 *   This account focuses on the relation between rational causal beliefs and evidence.
 *   It is analogous to an epistemic (i.e., Bayesian) theory of probability.

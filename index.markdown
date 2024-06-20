@@ -14,7 +14,7 @@ __Conference__:
 
 __Research project__:
 
-[**EBL+: New philosophical foundations for evidence-based law**](https://blogs.kent.ac.uk/jonw/eblplus/) (Leverhulme Trust 2023-26)
+[**EBL+: New philosophical foundations for evidence-based law**](/projects/eblplus) (Leverhulme Trust 2023-26)
 <br/><br/>
 
 __Monograph__:
