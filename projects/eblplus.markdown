@@ -20,6 +20,8 @@ This project is supported by the [Leverhulme Trust](https://www.leverhulme.ac.uk
 
 # Publications
 
+Alexandra Trofimov: **Evidential Pluralism as a methodology for Evidence-Based Law**, _The Reasoner_ 18(4): 30-31, 2024. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](http://blogs.kent.ac.uk/thereasoner/files/2024/07/TheReasoner-184.pdf) 
+
 Marissa LeBlanc, Jon Williamson, Francesco De Pretis, Juergen Landes & Elena Rocca: **Individual consent in cluster randomised trials for non-pharmaceutical interventions: Going beyond the Ottawa Statement**, _Critical Public Health_ 34(1): 2338074, 2024. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](https://www.tandfonline.com/doi/epdf/10.1080/09581596.2024.2338074) doi: [10.1080/09581596.2024.2338074](https://doi.org/10.1080/09581596.2024.2338074)
 
 <center>
