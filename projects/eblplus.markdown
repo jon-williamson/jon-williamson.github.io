@@ -30,7 +30,9 @@ Marissa LeBlanc, Jon Williamson, Francesco De Pretis, Juergen Landes & Elena Roc
 
 # Activities and talks
 
-12-13 September 2024. Jon Williamson: TBC. [The Plurality of Evidence and Causality in Economics](https://filozofia.uj.edu.pl/en_GB/the-plurality-of-evidence-and-causality-in-economics), Kraków.
+24-25 September 2024. Jon Williamson: An introduction to Evidential Pluralism. [First International Workshop on Evidential Pluralism in Education](https://lnu.se/en/meet-linnaeus-university/current/events/2024/peer-workshop/), Växjö, Sweden.
+
+12-13 September 2024. Jon Williamson: Evidential Pluralism for establishing causal claims in economics and evaluating economic policies. [The Plurality of Evidence and Causality in Economics](https://filozofia.uj.edu.pl/en_GB/the-plurality-of-evidence-and-causality-in-economics), Kraków.
 
 28-30 August 2024. Alexandra Trofimov: **Applying Evidential Pluralism to evidence-based law: EBL+**, [ENPOSS](https://enposs.eu/), Bergen.
 
