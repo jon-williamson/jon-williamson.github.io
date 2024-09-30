@@ -12,7 +12,9 @@ __Conference__:
 [**Celebrating Philosophy at Kent (1965-2024)**](/conferences/celebrating-kent.html)
 <br/><br/>
 
-__Research project__:
+__Research projects__:
+
+[**Interdisciplinary Systematic Review: mechanistic evidence and epistemic justice**](/projects/isr) (UKRI 2025-27)
 
 [**EBL+: New philosophical foundations for evidence-based law**](/projects/eblplus) (Leverhulme Trust 2023-26)
 <br/><br/>
@@ -30,6 +32,11 @@ __Monograph__:
 <br/><br/>
 
 **New papers**:
+
+<span style="color: #800000">Jon Williamson: </span><strong><a title="In this paper I counter Alexander Bird’s claim that Bayesian probabilities ought to be informed by explanatory considerations. Bird (2022) invokes an argument of Michael Huemer to conclude that inductive inference requires
+explanatory constraints on prior probabilities. I suggest that this argument is unsuccessful, on account of its appeal to David Lewis’ Principal Principle. Bird
+goes on to interpret the probabilities in Bayes’ theorem other than the prior as a measure of how well a hypothesis explains the evidence. I show that this
+interpretation faces a new version of the old evidence problem.">Explanationist constraints on rational degrees of belief</a></strong>, <em>Filosofiska Notiser</em>, in press.  <a href="/publications/documents/IBE-Bayesianism.pdf"><img class="alignnone" src="images/openaccess.jpg" alt="" width="44" height="16" border="0" /><img class="alignnone" src="images/acrobat.gif" alt="" width="16" height="16" border="0" /></a> 
 
 <span style="color: #800000">Samuel D. Taylor and Jon Williamson: </span><strong><a title="Cognitive theorists routinely disagree about the evidence supporting claims in cognitive science. Here, we first argue that some disagreements about evidence in cognitive science are about the evidence available to be drawn upon by cognitive theorists. Then, we show that one's explanation of why this first kind of disagreement obtains will cohere with one's theory of evidence. We argue that the best explanation for why cognitive theorists disagree in this way is because their evidence is what they rationally grant. Finally, we explain why our view does not lead to a pernicious kind of relativism in cognitive science.">Evidence and Cognition</a></strong>, <em>Erkenntnis</em> 89:1927-1948, 2024. <a href="https://link.springer.com/content/pdf/10.1007/s10670-022-00611-0.pdf"><img class="alignnone" src="images/openaccess.jpg" alt="" width="44" height="16" border="0" /><img class="alignnone" src="images/acrobat.gif" alt="" width="16" height="16" border="0" /></a> doi: <a href="https://dx.doi.org/10.1007/s10670-022-00611-0">10.1007/s10670-022-00611-0</a>
 

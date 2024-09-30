@@ -14,7 +14,7 @@ Long-standing research topics include:
 - [Objective Bayesianism][OB]
 - [Epistemic Causality][EC] 
 
-[EP]: /ep/
+[EP]: https://blogs.kent.ac.uk/evidential-pluralism/
 [OB]: /ob/
 [EC]: /ec/
 

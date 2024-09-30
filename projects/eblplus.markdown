@@ -20,6 +20,8 @@ This project is supported by the [Leverhulme Trust](https://www.leverhulme.ac.uk
 
 # Publications
 
+Alexandra Trofimov: **Applying Evidential Pluralism to Justify Legal Responses to Online Fake News**, _Philosophy of the Social Sciences_ in press. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](documents/fake-news.pdf) 
+
 Alexandra Trofimov: **Evidential Pluralism as a methodology for Evidence-Based Law**, _The Reasoner_ 18(4): 30-31, 2024. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](http://blogs.kent.ac.uk/thereasoner/files/2024/07/TheReasoner-184.pdf) 
 
 Marissa LeBlanc, Jon Williamson, Francesco De Pretis, Juergen Landes & Elena Rocca: **Individual consent in cluster randomised trials for non-pharmaceutical interventions: Going beyond the Ottawa Statement**, _Critical Public Health_ 34(1): 2338074, 2024. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](https://www.tandfonline.com/doi/epdf/10.1080/09581596.2024.2338074) doi: [10.1080/09581596.2024.2338074](https://doi.org/10.1080/09581596.2024.2338074)
@@ -30,15 +32,15 @@ Marissa LeBlanc, Jon Williamson, Francesco De Pretis, Juergen Landes & Elena Roc
 
 # Activities and talks
 
-24-25 September 2024. Jon Williamson: An introduction to Evidential Pluralism. [First International Workshop on Evidential Pluralism in Education](https://lnu.se/en/meet-linnaeus-university/current/events/2024/peer-workshop/), Växjö, Sweden.
+24-25 September 2024. Jon Williamson. **An introduction to Evidential Pluralism: establishing causal claims in education and evaluating educational policies**. [First International Workshop on Evidential Pluralism in Education](https://lnu.se/en/meet-linnaeus-university/current/events/2024/peer-workshop/), Växjö, Sweden.
 
-12-13 September 2024. Jon Williamson: Evidential Pluralism for establishing causal claims in economics and evaluating economic policies. [The Plurality of Evidence and Causality in Economics](https://filozofia.uj.edu.pl/en_GB/the-plurality-of-evidence-and-causality-in-economics), Kraków.
+12-13 September 2024. Jon Williamson. **Evidential Pluralism for establishing causal claims in economics and evaluating economic policies**. [The Plurality of Evidence and Causality in Economics](https://filozofia.uj.edu.pl/en_GB/the-plurality-of-evidence-and-causality-in-economics), Kraków.
 
-28-30 August 2024. Alexandra Trofimov: **Applying Evidential Pluralism to evidence-based law: EBL+**, [ENPOSS](https://enposs.eu/), Bergen.
+28-30 August 2024. Alexandra Trofimov. **Applying Evidential Pluralism to evidence-based law: EBL+**, [ENPOSS](https://enposs.eu/), Bergen.
 
-27-29 June 2024. Jon Williamson: **Towards science-friendly epistemology**, [Philosophy of Science and Epistemology](https://www.shanyafeng.com/philosophy-of-science-and-epistemology-conference-hk-2024.html), Hong Kong University of Science and Technology.
+27-29 June 2024. Jon Williamson. **Towards science-friendly epistemology**, [Philosophy of Science and Epistemology](https://www.shanyafeng.com/philosophy-of-science-and-epistemology-conference-hk-2024.html), Hong Kong University of Science and Technology.
 
-6-9 June 2024. Alexandra Trofimov: **Applying Evidential Pluralism to evidence-based law: EBL+**, [Law and Society Association](https://www.lawandsociety.org/denver-2024-homepage/), Denver.
+6-9 June 2024. Alexandra Trofimov. **Applying Evidential Pluralism to evidence-based law: EBL+**, [Law and Society Association](https://www.lawandsociety.org/denver-2024-homepage/), Denver.
 
 2-4 May 2024, Jon Williamson. **The evidential role of the key characteristics of carcinogens**, [EpiCause](https://www.jku.at/en/institute-of-philosophy-and-scientific-method/epicause-2024/program), Linz.
 
