@@ -7,10 +7,6 @@ title: What's New
 ---
 <br/>
 
-__Conference__:
-
-[**Celebrating Philosophy at Kent (1965-2024)**](/conferences/celebrating-kent.html)
-<br/><br/>
 
 __Research projects__:
 
