@@ -10,7 +10,7 @@ permalink: /conferences.html
 
 [Progic Conference Series](progic.html "The Progic series")
 
-[Causality in the Sciences Conference Series](http://blogs.kent.ac.uk/jonw/conferences/cits/ "Conferences on Causality in the Sciences")
+[Causality in the Sciences Conference Series](cits.html "Conferences on Causality in the Sciences")
 
 
 
