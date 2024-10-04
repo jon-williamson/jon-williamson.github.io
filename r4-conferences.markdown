@@ -8,9 +8,9 @@ permalink: /conferences.html
 
 <img align="right" width="400" src="images/beach.jpg">[Centre for Reasoning conferences and workshops](http://blogs.kent.ac.uk/jonw/centre-for-reasoning-events/) .
 
-[Progic Conference Series](progic.html "The Progic series")
+[Progic Conference Series](/conferences/progic.html "The Progic series")
 
-[Causality in the Sciences Conference Series](cits.html "Conferences on Causality in the Sciences")
+[Causality in the Sciences Conference Series](/conferences/cits.html "Conferences on Causality in the Sciences")
 
 
 

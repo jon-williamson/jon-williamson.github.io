@@ -28,8 +28,8 @@ A workshop report appeared in [_The Reasoner_ 15(5)](http://blogs.kent.ac.uk/the
 **Special focus: decision making**  
 Frankfurt School of Finance and Management, Germany, 7-10 July 2019
 
-**[progic 2017: The Eighth Workshop on Combining Probability and Logic  
-](http://www.progic2017.philosophie.uni-muenchen.de/index.html)**Special focus: severe uncertainty**  
+**[progic 2017: The Eighth Workshop on Combining Probability and Logic](http://www.progic2017.philosophie.uni-muenchen.de/index.html)**  
+**Special focus: severe uncertainty**  
 Munich Centre for Mathematical Philosophy, Germany, 29-31 March 2017
 
 **[progic 2015: The Seventh Workshop on Combining Probability and Logic](http://blogs.kent.ac.uk/jonw/conferences/progic/progic-2015/ "Progic 2015")**  
