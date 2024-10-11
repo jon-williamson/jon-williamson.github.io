@@ -44,7 +44,7 @@ Michael Wilde & Jon Williamson: **Evidential Pluralism and IARC**,  _IARC Monogr
 
 # Activities & talks
 
-3 October 2024. Joe Jones, Alexandra Trofimov & Jon Williamson. **Evidential Pluralism: Integrating evidence and overcoming the limitations of existing evaluation guidance **. [UK Evaluation Society](https://evaluation.org.uk/community-learning/events/webinars/), online.
+3 October 2024. Joe Jones, Alexandra Trofimov & Jon Williamson. **Evidential Pluralism: Integrating evidence and overcoming the limitations of existing evaluation guidance**. [UK Evaluation Society](https://evaluation.org.uk/community-learning/events/webinars/), online.
 
 24-25 September 2024. Jon Williamson. **An introduction to Evidential Pluralism: establishing causal claims in education and evaluating educational policies**. [First International Workshop on Evidential Pluralism in Education](https://lnu.se/en/meet-linnaeus-university/current/events/2024/peer-workshop/), Växjö, Sweden.
 
