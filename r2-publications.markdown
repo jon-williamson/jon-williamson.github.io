@@ -30,7 +30,7 @@ permalink: /publications/
 
 <span style="color: #800000">Alan Love, Caterina Marchionni, Miklos Redei &amp; Jon Williamson </span>(eds): <span style="color: #800000"><strong><a href="https://link.springer.com/journal/13194/topicalCollection/AC_f5aa5d07f23ad209185c18036a326eb5/page/1">EPSA21: Selected papers from the biennial conference in Turin</a></strong>, </span><em>European Journal for the Phiosophy of Science, </em>2023.
 
-<span style="color: #800000">Yafeng Shan &amp; Jon Williamson </span>(eds): <a href="https://link.springer.com/journal/11229/topicalCollection/AC_bdd803aed8f0a49a488f8ef53003e331/page/1"><strong>Evidential Diversity in the Social Sciences</strong></a>, <em>Synthese</em> Topical Collection, 2022.
+<span style="color: #800000">Yafeng Shan &amp; Jon Williamson </span>(eds): <a href="https://link.springer.com/collections/jhiececcah"><strong>Evidential Diversity in the Social Sciences</strong></a>, <em>Synthese</em> Topical Collection, 2022.
 
 <span style="color: #800000">Jon Williamson</span> (ed.)<span style="color: #800000">: </span><a href="http://thereasoner.org/"><strong>Focus on Evidential Pluralism</strong></a>, <em>The Reasoner </em>15(6), 2021. <a href="https://blogs.kent.ac.uk/thereasoner/files/2021/11/TheReasoner-156.pdf"><img class="alignnone" src="../images/openaccess.jpg" alt="" width="44" height="16" border="0" /><img class="alignnone" src="../images/acrobat.gif" alt="" width="16" height="16" border="0" /></a> <a href="documents/TheReasoner-156.pdf"><img class="alignnone" src="../images/acrobat.gif" alt="" width="16" height="16" border="0" /></a>
 

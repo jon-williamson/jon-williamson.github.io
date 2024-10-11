@@ -18,11 +18,9 @@ This project is supported by the [Leverhulme Trust](https://www.leverhulme.ac.uk
 </center>
 
 
-# Publications
+# Journal publications
 
-Alexandra Trofimov: **Applying Evidential Pluralism to Justify Legal Responses to Online Fake News**, _Philosophy of the Social Sciences_ in press. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](documents/fake-news.pdf) 
-
-Alexandra Trofimov: **Evidential Pluralism as a methodology for Evidence-Based Law**, _The Reasoner_ 18(4): 30-31, 2024. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](http://blogs.kent.ac.uk/thereasoner/files/2024/07/TheReasoner-184.pdf) 
+Alexandra Trofimov: **Applying Evidential Pluralism to Justify Legal Responses to Online Fake News**, _Philosophy of the Social Sciences_, Online First. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](https://journals.sagepub.com/doi/10.1177/00483931241291103) 
 
 Marissa LeBlanc, Jon Williamson, Francesco De Pretis, Juergen Landes & Elena Rocca: **Individual consent in cluster randomised trials for non-pharmaceutical interventions: Going beyond the Ottawa Statement**, _Critical Public Health_ 34(1): 2338074, 2024. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](https://www.tandfonline.com/doi/epdf/10.1080/09581596.2024.2338074) doi: [10.1080/09581596.2024.2338074](https://doi.org/10.1080/09581596.2024.2338074)
 
@@ -30,7 +28,23 @@ Marissa LeBlanc, Jon Williamson, Francesco De Pretis, Juergen Landes & Elena Roc
 <a href="images/divider.jpg"><img  src="images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
 </center>
 
-# Activities and talks
+# Blogs & notes
+
+Joe Jones, Alexandra Trofimov, Michael Wilde & Jon Williamson: [**How should we integrate diverse evidence when evaluating policies?**](https://upen.ac.uk/resources/how-should-we-integrate-diverse-evidence-when-evaluating-policies/), UPEN, 2024.
+
+Joe Jones, Alexandra Trofimov, Michael Wilde & Jon Williamson: [**EBP+: Integrating science into policy evaluation using Evidential Pluralism**](https://knowledge4policy.ec.europa.eu/blog/ebp-integrating-science-policy-evaluation-using-evidential-pluralism_en), European Commission Knowledge for Policy platform, 2024.
+
+Alexandra Trofimov: **Evidential Pluralism as a methodology for Evidence-Based Law**, _The Reasoner_ 18(4): 30-31, 2024. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](http://blogs.kent.ac.uk/thereasoner/files/2024/07/TheReasoner-184.pdf) 
+
+Michael Wilde & Jon Williamson: **Evidential Pluralism and IARC**,  _IARC Monographs News_ 6: 3, 2023. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](https://monographs.iarc.who.int/wp-content/uploads/2023/07/Newsletter-IssueNo6-final.pdf) 
+
+<center>
+<a href="images/divider.jpg"><img  src="images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
+</center>
+
+# Activities & talks
+
+3 October 2024. Joe Jones, Alexandra Trofimov & Jon Williamson. **Evidential Pluralism: Integrating evidence and overcoming the limitations of existing evaluation guidance **. [UK Evaluation Society](https://evaluation.org.uk/community-learning/events/webinars/), online.
 
 24-25 September 2024. Jon Williamson. **An introduction to Evidential Pluralism: establishing causal claims in education and evaluating educational policies**. [First International Workshop on Evidential Pluralism in Education](https://lnu.se/en/meet-linnaeus-university/current/events/2024/peer-workshop/), Växjö, Sweden.
 
