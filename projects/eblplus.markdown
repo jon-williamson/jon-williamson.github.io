@@ -20,7 +20,7 @@ This project is supported by the [Leverhulme Trust](https://www.leverhulme.ac.uk
 
 # Journal publications
 
-Alexandra Trofimov: **Applying Evidential Pluralism to Justify Legal Responses to Online Fake News**, _Philosophy of the Social Sciences_, Online First. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](https://journals.sagepub.com/doi/10.1177/00483931241291103) 
+Alexandra Trofimov: **Applying Evidential Pluralism to justify legal responses to online fake news**, _Philosophy of the Social Sciences_, Online First. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](https://journals.sagepub.com/doi/10.1177/00483931241291103) 
 
 Marissa LeBlanc, Jon Williamson, Francesco De Pretis, Juergen Landes & Elena Rocca: **Individual consent in cluster randomised trials for non-pharmaceutical interventions: Going beyond the Ottawa Statement**, _Critical Public Health_ 34(1): 2338074, 2024. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](https://www.tandfonline.com/doi/epdf/10.1080/09581596.2024.2338074) doi: [10.1080/09581596.2024.2338074](https://doi.org/10.1080/09581596.2024.2338074)
 
