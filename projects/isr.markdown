@@ -18,7 +18,7 @@ This project is supported by the new [UKRI interdisciplinary scheme](https://www
 <p><b><span style="background-color: #FFFF00">We are hiring:</span> two postdoctoral research associates.</b>
 </p>
 - One with expertise in philosophy of scientific method and philosophy of causality. [Apply here](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=30564&advert=external). 
-- One with expertise in evidence review and research methods.  [Apply here](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=30704&advert=external). 
+- One with expertise in evidence review and research methods.  [Apply here](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=30704&advert=external).  
 The closing date for both these jobs is 4th November 2024.
 
 <center>
