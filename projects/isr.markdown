@@ -21,6 +21,11 @@ This project is supported by the new [UKRI interdisciplinary scheme](https://www
 - One with expertise in evidence review and research methods.  [Apply here](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=30704&advert=external).  
 The closing date for both these jobs is 4th November 2024.
 
+FAQ:
+- Do I need to be able to start on 16th January? Yes.
+- Do I need to have a PhD by then? Yes.
+- Can I work remotely? No. (Manchester require relocating to the Manchester area.)
+
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"  border="0" /></a>
 </center>
