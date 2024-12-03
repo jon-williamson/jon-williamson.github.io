@@ -11,20 +11,6 @@ This project will apply an emerging philosophical theory of causal enquiry, [Evi
 
 This project is supported by the new [UKRI interdisciplinary scheme](https://www.ukri.org/news/first-projects-from-ukris-new-interdisciplinary-scheme-announced/) and runs for 2 years from 16th January 2025. 
 
-<center>
-<a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"  border="0" /></a>
-</center>
-
-<p><b><span style="background-color: #FFFF00">We are hiring:</span> two postdoctoral research associates.</b>
-</p>
-- One with expertise in philosophy of scientific method and philosophy of causality. [Apply here](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=30564&advert=external). 
-- One with expertise in evidence review and research methods.  [Apply here](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=30704&advert=external).  
-The closing date for both these jobs is 4th November 2024.
-
-FAQs:
-- Do I need to be able to start on 16th January? Yes.
-- Do I need to have a PhD by then? Yes.
-- Can I work remotely? No. (Manchester require that staff relocate to the Manchester area.)
 
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"  border="0" /></a>
