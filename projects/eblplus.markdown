@@ -30,11 +30,13 @@ Marissa LeBlanc, Jon Williamson, Francesco De Pretis, Juergen Landes & Elena Roc
 
 # Blogs & notes
 
+Joe Jones, Alexandra Trofimov, Michael Wilde & Jon Williamson: **Better Evaluation Using Evidential Pluralism**, _Evaluative Practice_ 2024(03), UK Evaluation Society, 2024. [![](https://jonwilliamson.uk/images/acrobat.gif)](documents/EP.pdf) 
+
 Joe Jones, Alexandra Trofimov, Michael Wilde & Jon Williamson: [**How should we integrate diverse evidence when evaluating policies?**](https://upen.ac.uk/resources/how-should-we-integrate-diverse-evidence-when-evaluating-policies/), UPEN, 2024.
 
 Joe Jones, Alexandra Trofimov, Michael Wilde & Jon Williamson: [**EBP+: Integrating science into policy evaluation using Evidential Pluralism**](https://knowledge4policy.ec.europa.eu/blog/ebp-integrating-science-policy-evaluation-using-evidential-pluralism_en), European Commission Knowledge for Policy platform, 2024.
 
-Alexandra Trofimov: **Evidential Pluralism as a methodology for Evidence-Based Law**, _The Reasoner_ 18(4): 30-31, 2024. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](http://blogs.kent.ac.uk/thereasoner/files/2024/07/TheReasoner-184.pdf) 
+Alexandra Trofimov: **Evidential Pluralism as a methodology for Evidence-Based Law**, _The Reasoner_ 18(4): 30-31, 2024. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](documents/EPMEBL.pdf) 
 
 Michael Wilde & Jon Williamson: **Evidential Pluralism and IARC**,  _IARC Monographs News_ 6: 3, 2023. [![](https://jonwilliamson.uk/images/openaccess.jpg)![](https://jonwilliamson.uk/images/acrobat.gif)](https://monographs.iarc.who.int/wp-content/uploads/2023/07/Newsletter-IssueNo6-final.pdf) 
 
