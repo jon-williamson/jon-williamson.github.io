@@ -8,7 +8,7 @@ exclude: true
 
 ## Workshops on Combining Probability and Logic
 
-**progic 2025: The Twelfth Workshop on Combining Probability and Logic**  
+**[progic 2025: The Twelfth Workshop on Combining Probability and Logic](https://www.cmu.edu/progic2025/)**  
 **Special focus: Theoretical Approaches to Learning and Learnability**  
 Carnegie Mellon University, Pittsburgh, USA, 3-5 April 2025
 
