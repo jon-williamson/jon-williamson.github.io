@@ -46,6 +46,8 @@ Michael Wilde & Jon Williamson: **Evidential Pluralism and IARC**,  _IARC Monogr
 
 # Activities & talks
 
+5 December 2024. Alexandra Trofimov. **Using Evidential Pluralism to Integrate Diverse Evidence in Policy Evaluation**, [Climate Nudge research seminar](https://ilmastotuuppaus.fi/en/).
+
 3 October 2024. Joe Jones, Alexandra Trofimov & Jon Williamson. **Evidential Pluralism: Integrating evidence and overcoming the limitations of existing evaluation guidance**. [UK Evaluation Society](https://evaluation.org.uk/community-learning/events/webinars/), online.
 
 24-25 September 2024. Jon Williamson. **An introduction to Evidential Pluralism: establishing causal claims in education and evaluating educational policies**. [First International Workshop on Evidential Pluralism in Education](https://lnu.se/en/meet-linnaeus-university/current/events/2024/peer-workshop/), Växjö, Sweden.
@@ -55,6 +57,8 @@ Michael Wilde & Jon Williamson: **Evidential Pluralism and IARC**,  _IARC Monogr
 28-30 August 2024. Alexandra Trofimov. **Applying Evidential Pluralism to evidence-based law: EBL+**, [ENPOSS](https://enposs.eu/), Bergen.
 
 27-29 June 2024. Jon Williamson. **Towards science-friendly epistemology**, [Philosophy of Science and Epistemology](https://www.shanyafeng.com/philosophy-of-science-and-epistemology-conference-hk-2024.html), Hong Kong University of Science and Technology.
+
+23-25 June 2024. Alexandra Trofimov. **Evidential Pluralism as a Methodology for Incorporating Behavioural Sciences in Public Policy Evaluation**, [International Behavioural Public Policy Conference](https://www.ibppa.org/ibppc-2024), Cambridge, UK.
 
 6-9 June 2024. Alexandra Trofimov. **Applying Evidential Pluralism to evidence-based law: EBL+**, [Law and Society Association](https://www.lawandsociety.org/denver-2024-homepage/), Denver.
 
