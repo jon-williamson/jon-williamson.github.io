@@ -19,16 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jon Williamson
-email: j.williamson@kent.ac.uk
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Philosophy of Science, Medicine, AI and Law; Epistemology; Metaphysics;  Logic
 address: >- # this means to ignore newlines until "baseurl:"
-  Philosophy, Kent
+  Philosophy Department, University of Manchester
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonwilliamson.uk" # the base hostname & protocol for your site, e.g. http://example.com url: "https://jon-williamson.github.io/" 
 twitter_username: Jon_Williamson_
 # github_username:  jon-williamson
-address_url: "https://www.kent.ac.uk/philosophy/people/1678/williamson-jon"
+address_url: "https://personalpages.manchester.ac.uk/advanced.php?dn=cn%3DJon+Williamson%2Bumanroleid%3D1470145%2Cou%3DPhilosophy%2Cou%3DSchool+of+Social+Sciences%2Cou%3DFaculty+of+Humanities%2Cou%3DPeople%2Co%3DUniversity+of+Manchester%2Cc%3DGB&employeeType=STAFF&action=read&form_input=Submit"
 scholar: 6jril40AAAAJ
 orcid: 0000-0003-0514-4209
 
