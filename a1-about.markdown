@@ -6,7 +6,7 @@ permalink: /about/
 
 I work on the philosophy of causality, the foundations of probability, formal epistemology, inductive logic, and the use of causality, probability and inference methods in science, medicine, AI and law.
 
-I'm the Samuel Hall Chair of Philosophy at the [University of Manchester](https://www.socialsciences.manchester.ac.uk/philosophy/). 
+I'm the Samuel Hall Chair in Philosophy at the [University of Manchester](https://www.socialsciences.manchester.ac.uk/philosophy/). 
 - My office is 2.43 in the [Humanities Bridgeford Street Building](https://www.manchester.ac.uk/about/maps/interactive-map/?id=32). [///voices.robots.these](https://w3w.co/voices.robots.these)
 - Address: Department of Philosophy, Humanities Bridgeford Street, The University of Manchester, Oxford Road, Manchester, M13 9PL
 
