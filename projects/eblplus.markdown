@@ -48,6 +48,8 @@ Michael Wilde & Jon Williamson: **Evidential Pluralism and IARC**,  _IARC Monogr
 
 # Activities & talks
 
+4 February 2025. Jon Williamson. **The role of idealisation in the epistemology of causality**. Department of Logic and the Methodology of Sciences, Comenius University, Bratislava.
+
 5 December 2024. Alexandra Trofimov. **Using Evidential Pluralism to Integrate Diverse Evidence in Policy Evaluation**, [Climate Nudge research seminar](https://ilmastotuuppaus.fi/en/).
 
 3 October 2024. Joe Jones, Alexandra Trofimov & Jon Williamson. **Evidential Pluralism: Integrating evidence and overcoming the limitations of existing evaluation guidance**. [UK Evaluation Society](https://evaluation.org.uk/community-learning/events/webinars/), online.

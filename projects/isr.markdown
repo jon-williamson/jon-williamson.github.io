@@ -40,16 +40,18 @@ Coming soon.
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
 </center>
+-->
 
 
 # Activities & talks
 
-Coming soon.
+5 February 2025. Jon Williamson. **An objective Bayesian approach to inductive logic**. Department of Logic and the Methodology of Sciences, Comenius University, Bratislava.
+
+4 February 2025. Jon Williamson. **The role of idealisation in the epistemology of causality**. Department of Logic and the Methodology of Sciences, Comenius University, Bratislava.
 
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
 </center>
--->
 
 <center>
 <p><a href="images/UKRI-logo.png"><img class="wp-image-2222 alignnone" src="images/UKRI-logo.png" alt="UKRI" height="100" /></a> <a href="images/manchester-logo.gif"><img class="wp-image-2222 alignnone" src="images/manchester-logo.gif" alt="University of Manchester" height="100" /></a> <a href="images/oxford-logo.png"><img src="images/oxford-logo.png" alt="University of Oxford" height="100" /></a> <a href="images/exeter-logo.png" target="_blank" rel="noopener noreferrer"><img src="images/exeter-logo.png" alt="University of Exeter" height="100" /></a></p>
