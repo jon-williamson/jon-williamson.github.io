@@ -9,7 +9,7 @@ exclude: true
 
 This project will apply an emerging philosophical theory of causal enquiry, [Evidential Pluralism](https://blogs.kent.ac.uk/evidential-pluralism/), to provide systematic foundations for a broader approach to evidence review—one that includes a diverse range of evidence from across disciplines. This approach promises better informed and more inclusive evaluations. A new review of the effectiveness of face-mask mandates will help to test the approach. 
 
-This project is supported by the new [UKRI interdisciplinary scheme](https://www.ukri.org/news/first-projects-from-ukris-new-interdisciplinary-scheme-announced/) and runs for 2 years from 16th January 2025. 
+This project is supported by the new [UKRI interdisciplinary scheme](https://www.ukri.org/news/first-projects-from-ukris-new-interdisciplinary-scheme-announced/) and runs for 2 years from 29th January 2025. 
 
 
 <center>
@@ -18,15 +18,15 @@ This project is supported by the new [UKRI interdisciplinary scheme](https://www
 
 # People
 
-[Trish Greenhalgh](https://www.phc.ox.ac.uk/team/trish-greenhalgh) (co-leader), Department of Primary Care Health Sciences, University of Oxford.
+[**Trish Greenhalgh**](https://www.phc.ox.ac.uk/team/trish-greenhalgh) (co-leader), Department of Primary Care Health Sciences, University of Oxford.
 
-[Rebecca Helm](https://law.exeter.ac.uk/people/profile/index.php?web_id=helm) (co-leader), Law School, University of Exeter.
+[**Rebecca Helm**](https://law.exeter.ac.uk/people/profile/index.php?web_id=helm) (co-leader), Law School, University of Exeter.
 
-Luana Poliseli Ramos (Research Associate), Philosophy Department, University of Manchester.
+**Luana Poliseli Ramos** (Research Associate), Philosophy Department, University of Manchester.
 
-Sahanika Ratnayake (Research Associate), Philosophy Department, University of Manchester.
+**Sahanika Ratnayake** (Research Associate), Philosophy Department, University of Manchester.
 
-<!--<img style="float: right;" src="/images/jw.jpg" alt="" width="100"  />-->[Jon Williamson](/about) (PI), Philosophy Department, University of Manchester.
+<!--<img style="float: right;" src="/images/jw.jpg" alt="" width="100"  />-->[**Jon Williamson**](/about) (PI), Philosophy Department, University of Manchester.
 
 
 <center>
