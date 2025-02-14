@@ -50,7 +50,9 @@ Coming soon.
 
 # Activities & talks
 
+<!--
 5 February 2025. Jon Williamson. **An objective Bayesian approach to inductive logic**. Department of Logic and the Methodology of Sciences, Comenius University, Bratislava.
+-->
 
 4 February 2025. Jon Williamson. **The role of idealisation in the epistemology of causality**. Department of Logic and the Methodology of Sciences, Comenius University, Bratislava.
 
