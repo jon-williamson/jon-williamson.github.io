@@ -18,14 +18,19 @@ This project is supported by the new [UKRI interdisciplinary scheme](https://www
 
 # People
 
-<!--<img style="float: right;" src="/images/jw.jpg" alt="" width="100"  />-->[Jon Williamson](/about) (PI), Philosophy Department, University of Manchester.
-
 [Trish Greenhalgh](https://www.phc.ox.ac.uk/team/trish-greenhalgh) (co-leader), Department of Primary Care Health Sciences, University of Oxford.
 
 [Rebecca Helm](https://law.exeter.ac.uk/people/profile/index.php?web_id=helm) (co-leader), Law School, University of Exeter.
 
+Luana Poliseli Ramos (Research Associate), Philosophy Department, University of Manchester.
+
+Sahanika Ratnayake (Research Associate), Philosophy Department, University of Manchester.
+
+<!--<img style="float: right;" src="/images/jw.jpg" alt="" width="100"  />-->[Jon Williamson](/about) (PI), Philosophy Department, University of Manchester.
+
+
 <center>
-<p><a href="/about" target="_blank" rel="noopener noreferrer"><img src="/images/jw.jpg" alt="Jon Williamson" height="170" /></a> <a href="https://www.phc.ox.ac.uk/team/trish-greenhalgh"><img class="wp-image-2222 alignnone" src="images/tg.jpg" alt="Trish Greenhalgh" height="170" /></a> <a href="https://law.exeter.ac.uk/people/profile/index.php?web_id=helm"><img src="images/rh.jpg" alt="Rebecca Helm" height="170" /></a> </p>
+<p> <a href="https://www.phc.ox.ac.uk/team/trish-greenhalgh"><img class="wp-image-2222 alignnone" src="images/tg.jpg" alt="Trish Greenhalgh" height="170" /></a> <a href="https://law.exeter.ac.uk/people/profile/index.php?web_id=helm"><img src="images/rh.jpg" alt="Rebecca Helm" height="170" /></a> <a href="/about" target="_blank" rel="noopener noreferrer"><img src="/images/jw.jpg" alt="Jon Williamson" height="170" /></a> </p>
 </center>
 
 <center>
