@@ -30,7 +30,7 @@ This project is supported by the new [UKRI interdisciplinary scheme](https://www
 
 
 <center>
-<p> <a href="https://www.phc.ox.ac.uk/team/trish-greenhalgh"><img class="wp-image-2222 alignnone" src="images/tg.jpg" alt="Trish Greenhalgh" height="170" /></a> <a href="https://law.exeter.ac.uk/people/profile/index.php?web_id=helm"><img src="images/rh.jpg" alt="Rebecca Helm" height="170" /></a> <a href="/about" target="_blank" rel="noopener noreferrer"><img src="/images/jw.jpg" alt="Jon Williamson" height="170" /></a> </p>
+<p> <a href="https://www.phc.ox.ac.uk/team/trish-greenhalgh"><img class="wp-image-2222 alignnone" src="images/tg.jpg" alt="Trish Greenhalgh" height="170" /></a> <a href="https://law.exeter.ac.uk/people/profile/index.php?web_id=helm"><img src="images/rh.jpg" alt="Rebecca Helm" height="170" /></a> <img src="images/lp.jpg" alt="Luana Poliseli" height="170" /> <img src="images/sr.jpg" alt="Sahanika Ratnayake" height="170" /> <a href="/about" target="_blank" rel="noopener noreferrer"><img src="/images/jw.jpg" alt="Jon Williamson" height="170" /></a> </p>
 </center>
 
 <center>
