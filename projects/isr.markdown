@@ -60,13 +60,14 @@ Coming soon.
 
 4 February 2025. Jon Williamson. **The role of idealisation in the epistemology of causality**. Department of Logic and the Methodology of Sciences, Comenius University, Bratislava.
 
+<a id="MOSEP"> </a>
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
 </center>
 
 
 
-# <a name="MOSEP">Manchester Online Seminars on Evidential Pluralism</a>
+# Manchester Online Seminars on Evidential Pluralism
 
 All times are UK time. To obtain a link, subscribe to the announcement list by [clicking here](mailto:listserv@listserv.manchester.ac.uk&subject=subscribe&body=subscribe%20ep-discussion%20MyFirstname%20MyLastname).
 
