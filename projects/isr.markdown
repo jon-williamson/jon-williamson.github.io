@@ -56,7 +56,7 @@ Coming soon.
 
 5 April 2025. Jon Williamson. **Can Evidential Pluralism mitigate bias and motivated reasoning?**, [Evidence-Based Medicine Reconsidered](https://www.centerphilsci.pitt.edu/event/evidence-based-medicine-reconsidered/), University of Pittsburgh.
 
-26th February 2025. Jon Williamson. **Towards science-friendly epistemology**, 15.10-16.50, Roscoe 3.2, University of Manchester.
+26 February 2025. Jon Williamson. **Towards science-friendly epistemology**, 15.10-16.50, Roscoe 3.2, University of Manchester.
 
 4 February 2025. Jon Williamson. **The role of idealisation in the epistemology of causality**. Department of Logic and the Methodology of Sciences, Comenius University, Bratislava.
 
@@ -64,11 +64,11 @@ Coming soon.
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
 </center>
 
-<a name="MOSEP"></a>
 
-# Manchester Online Seminars on Evidential Pluralism
 
-All times are UK time. To obtain a link, subscribe to the announcement list by [clicking here](mailto:listserv@listserv.manchester.ac.uk&subject=subscribe&body=subscribe%20ep-discussion%20My-Firstname%20My-Lastname).
+# <a name="MOSEP">Manchester Online Seminars on Evidential Pluralism</a>
+
+All times are UK time. To obtain a link, subscribe to the announcement list by [clicking here](mailto:listserv@listserv.manchester.ac.uk&subject=subscribe&body=subscribe%20ep-discussion%20MyFirstname%20MyLastname).
 
 16 June, 2-3.30pm Phyllis Illari. **Epistemic Games and Causal Problems: A Framework for Teaching the Evaluation of Scientific Information**.
 
