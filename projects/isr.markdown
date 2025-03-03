@@ -69,15 +69,7 @@ Coming soon.
 
 # Manchester Online Seminars on Evidential Pluralism
 
-All times are UK time. To obtain a link, subscribe to the announcement list by [clicking here](mailto:listserv@listserv.manchester.ac.uk&subject=subscribe&body=subscribe%20ep-discussion%20MyFirstname%20MyLastname).
-
-16 June, 2-3.30pm Phyllis Illari. **Epistemic Games and Causal Problems: A Framework for Teaching the Evaluation of Scientific Information**.
-
-14 May, 3-4.30pm. Christopher Clarke. **Against causal pluralism**.
-
-14 April, 3-4.30pm. Alexandra Trofimov. **How Evidential Pluralism Mitigates Epistemic Injustice in Evidence-Based Evaluation**.
-
-14 March, 4-5.30pm. Gary Goertz. **Large-N Qualitative Analysis and Evidential Pluralism**.
+We also organise a series of [online seminars on Evidential Pluralism](/mosep). 
 
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
