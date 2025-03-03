@@ -7,6 +7,10 @@ title: What's New
 ---
 <br/>
 
+__Events__:
+
+[**Manchester online seminars on Evidential Pluralism**](/mosep) 
+<br/><br/>
 
 __Research projects__:
 
@@ -29,7 +33,7 @@ __Monograph__:
 
 **New papers**:
 
-<span style="color: #800000">Alexandra Trofimov and Jon Williamson: </span><strong><a title="Evidence-based law seeks to make best use of evidence to assess the effectiveness of laws and regulations. The question arises as to how exactly to make best use of evidence. This paper argues that Evidential Pluralism provides an answer to this question, and can thus provide philosophical foundations for evidence-based law. Evidential Pluralism is a theory of causal enquiry which maintains that one needs to scrutinise mechanistic studies alongside the experimental and observational studies that are the focus of present-day evidence-based medicine and evidence-based policy. The paper develops a new approach to evidence-based law, called EBL+, based on the principles of Evidential Pluralism. Three examples show how the proposed methods work: banning hand-held mobile phone use while driving, sugar tax, and face-mask mandates for controlling Covid-19.">Applying Evidential Pluralism to evidence-based law: EBL+</a></strong>, <a href="https://www.tandfonline.com/journals/rjpn20"><em>Jurisprudence</em></a>.  <a href="https://doi.org/10.1080/20403313.2025.2449758"><img class="alignnone" src="images/openaccess.jpg" alt="" width="44" height="16" border="0" /><img class="alignnone" src="images/acrobat.gif" alt="" width="16" height="16" border="0" /></a> <!--  <a href="/publications/documents/IBE-Bayesianism.pdf"><img class="alignnone" src="images/acrobat.gif" alt="" width="16" height="16" border="0" /></a> --> Doi <a href="https://doi.org/10.1080/20403313.2025.2449758">10.1080/20403313.2025.</a>
+<span style="color: #800000">Alexandra Trofimov and Jon Williamson: </span><strong><a title="Evidence-based law seeks to make best use of evidence to assess the effectiveness of laws and regulations. The question arises as to how exactly to make best use of evidence. This paper argues that Evidential Pluralism provides an answer to this question, and can thus provide philosophical foundations for evidence-based law. Evidential Pluralism is a theory of causal enquiry which maintains that one needs to scrutinise mechanistic studies alongside the experimental and observational studies that are the focus of present-day evidence-based medicine and evidence-based policy. The paper develops a new approach to evidence-based law, called EBL+, based on the principles of Evidential Pluralism. Three examples show how the proposed methods work: banning hand-held mobile phone use while driving, sugar tax, and face-mask mandates for controlling Covid-19.">Applying Evidential Pluralism to evidence-based law: EBL+</a></strong>, <a href="https://www.tandfonline.com/journals/rjpn20"><em>Jurisprudence</em></a>.  <a href="https://doi.org/10.1080/20403313.2025.2449758"><img class="alignnone" src="/images/openaccess.jpg" alt="" width="44" height="16" border="0" /><img class="alignnone" src="/images/acrobat.gif" alt="" width="16" height="16" border="0" /></a> <!--  <a href="/publications/documents/IBE-Bayesianism.pdf"><img class="alignnone" src="images/acrobat.gif" alt="" width="16" height="16" border="0" /></a> --> Doi <a href="https://doi.org/10.1080/20403313.2025.2449758">10.1080/20403313.2025.</a>
 
 <span style="color: #800000">Jon Williamson: </span><strong><a title="In this paper I counter Alexander Bird’s claim that Bayesian probabilities ought to be informed by explanatory considerations. Bird (2022) invokes an argument of Michael Huemer to conclude that inductive inference requires
 explanatory constraints on prior probabilities. I suggest that this argument is unsuccessful, on account of its appeal to David Lewis’ Principal Principle. Bird
