@@ -10,6 +10,10 @@ exclude: true
   * All times are UK time. 
   * To obtain a link, subscribe to the announcement list by [sending this email](mailto:listserv@listserv.manchester.ac.uk?subject=subscribe&body=subscribe%20ep-discussion%20MyFirstname%20MyLastname). (Please first replace "MyFirstname MyLastname" with your name.)
 
+<center>
+<a href="/projects/images/divider.jpg"><img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
+</center>
+
 # 2025
 
 21 July. 3-4.30pm [Rosa Runhardt](https://www.ru.nl/en/people/runhardt-r) (Radboud). **Evidential Pluralism and educational ethnography**.
@@ -30,6 +34,12 @@ The framework introduced in this paper is based on the philosophical classificat
 > In [other work](https://www.cambridge.org/core/journals/perspectives-on-politics/article/largen-qualitative-analysis-lnqa-causal-generalization-in-case-study-and-multimethod-research/7A848B3BCC7E01924F32754B7ACCE5B3), we have explored methodological issues around a research approach we call Large-N Qualitative Analysis (LNQA). The core of the method combines a consideration of regularities and within-case causal inference of all cases falling within a specified scope. In this talk, we outline a particular variant of this approach: multimethod LNQA or M-LNQA. The distinctive feature of M-LNQA is that it combines a statistical and LNQA component and thus raises interesting issues about evidential pluralism: how evidence of very different sorts can be combined to strengthen inference. 
 
 <center>
-<a href="/projects/images/manchester-logo.gif"><img class="wp-image-2222 alignnone" src="/projects/images/manchester-logo.gif" alt="University of Manchester" height="100" /></a> 
+<a href="/projects/images/divider.jpg"><img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
+</center>
+
+These seminars are organised by the team of the [Interdisciplinary Systematic Review](/projects/isr) project in the [Philosophy Department](https://www.socialsciences.manchester.ac.uk/philosophy/) at the University of Manchester.
+
+<center>
+<a href="https://www.manchester.ac.uk/"><img class="wp-image-2222 alignnone" src="/projects/images/manchester-logo.gif" alt="University of Manchester" height="100" /></a> 
 </center>
 
