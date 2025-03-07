@@ -8,7 +8,7 @@ exclude: true
 <a href="/ep"><img style="float: right;"  src="/images/EP-logo.jpg" alt="" width="200"   border="0" /></a> According to [Evidential Pluralism](/ep), mechanistic studies should be scrutinised alongside comparative studies when evaluating a causal claim. This leads to new approaches to evidence-based medicine and evidence-based policy making, for example. Talks in this series consider Evidential Pluralism and/or alternative approaches to handling diversity of evidence in causal enquiry.
 
   * All times are UK time. 
-  * To obtain a link, subscribe to the announcement list by [sending this email](mailto:listserv@listserv.manchester.ac.uk?subject=subscribe&body=subscribe%20ep-discussion%20MyFirstname%20MyLastname). (Please first replace "MyFirstname MyLastname" with your name.)
+  * To obtain a link, subscribe to the announcement list by [sending this email](mailto:listserv@listserv.manchester.ac.uk?subject=subscribe&body=subscribe%20ep-announcements%20MyFirstname%20MyLastname). (Please first replace "MyFirstname MyLastname" with your name.)
 
 <center>
 <a href="/projects/images/divider.jpg"><img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
