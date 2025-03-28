@@ -35,9 +35,9 @@ The framework introduced in this paper is based on the philosophical classificat
 <a href="/projects/images/divider.jpg"><img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
 </center>
 
-# Past talks
+## Past talks
 
-## 2025
+# 2025
 
 20 March, 4-5.30pm. [Gary Goertz](https://politicalscience.nd.edu/people/gary-goertz/) (Notre Dame) & [Stephan Haggard](https://gps.ucsd.edu/faculty-directory/stephan-haggard.html) (UCSD). **Evidential Pluralism: The Example of Multi-method Large-N Qualitative analysis**.
 > In [other work](https://www.cambridge.org/core/journals/perspectives-on-politics/article/largen-qualitative-analysis-lnqa-causal-generalization-in-case-study-and-multimethod-research/7A848B3BCC7E01924F32754B7ACCE5B3), we have explored methodological issues around a research approach we call Large-N Qualitative Analysis (LNQA). The core of the method combines a consideration of regularities and within-case causal inference of all cases falling within a specified scope. In this talk, we outline a particular variant of this approach: multimethod LNQA or M-LNQA. The distinctive feature of M-LNQA is that it combines a statistical and LNQA component and thus raises interesting issues about evidential pluralism: how evidence of very different sorts can be combined to strengthen inference. 
