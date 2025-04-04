@@ -37,15 +37,13 @@ This project is supported by the new [UKRI interdisciplinary scheme](https://www
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
 </center>
 
-<!--
 # Publications
 
-Coming soon.
+Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approach to Evidence Synthesis**, _The Reasoner_ 19(2). doi:[10.54103/1757-0522/28330](https://doi.org/10.54103/1757-0522/28330)
 
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
 </center>
--->
 
 
 # Activities & talks
