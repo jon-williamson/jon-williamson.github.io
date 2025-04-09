@@ -39,7 +39,7 @@ This project is supported by the new [UKRI interdisciplinary scheme](https://www
 
 # Publications
 
-Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approach to Evidence Synthesis**, _The Reasoner_ 19(2). doi:[10.54103/1757-0522/28330](https://doi.org/10.54103/1757-0522/28330)
+Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approach to Evidence Synthesis**, _The Reasoner_ 19(2). doi: [10.54103/1757-0522/28330](https://doi.org/10.54103/1757-0522/28330)
 
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
@@ -47,6 +47,10 @@ Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approa
 
 
 # Activities & talks
+
+15-17 July 2025. Sahanika Ratnayake. **The need for evidential plurality in the evaluation of psychotherapy**. British Society for the Philosophy of Science (University of Glasgow).
+
+11-12 June 2025. Sahanika Ratnayake. **Who Knows What in Mental Healthcare?** Epistemic Hypocrisy and the Evaluation of Talking Therapy via Evidence Based Medicine (Radboud University).
 
 <!--
 5 February 2025. Jon Williamson. **An objective Bayesian approach to inductive logic**. Department of Logic and the Methodology of Sciences, Comenius University, Bratislava.

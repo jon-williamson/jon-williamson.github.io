@@ -32,6 +32,8 @@ Marissa LeBlanc, Jon Williamson, Francesco De Pretis, Juergen Landes & Elena Roc
 
 # Blogs & notes
 
+Alexandra Trofimov: [**Epistemic Injustice in Healthcare: Evidential Pluralism Mitigates Epistemic Injustice in Evidence-Based Evaluation**](https://epistemicinjusticeinhealthcareproject.blogspot.com/2025/04/evidential-pluralism-mitigates.html), Epistemic Injustice in Healthcare, 2025.
+
 Joe Jones, Alexandra Trofimov, Michael Wilde & Jon Williamson: **Better Evaluation Using Evidential Pluralism**, _Evaluative Practice_ 2024(03), UK Evaluation Society, 2024. [![](https://jonwilliamson.uk/images/acrobat.gif)](documents/EP.pdf) 
 
 Joe Jones, Alexandra Trofimov, Michael Wilde & Jon Williamson: [**How should we integrate diverse evidence when evaluating policies?**](https://upen.ac.uk/resources/how-should-we-integrate-diverse-evidence-when-evaluating-policies/), UPEN, 2024.
