@@ -93,7 +93,7 @@ Selected papers published in Federica Russo & Jon Williamson (eds): [Causality a
 * * *
 
 <br>
-
+<!--
 ### Related Events
 
 11 August 2011 – **Third UCL-Kent workshop on causality** (UCL, [Centre for Reasoning](http://www.kent.ac.uk/reasoning))
@@ -170,3 +170,4 @@ Autumn 2008: **Reading group, Belgium**
 
 
 23 July 2008 – **Kent-UCL workshop on causality and linking mechanisms** (CGU2, 1-6pm, Kent [Centre for Reasoning](http://www.kent.ac.uk/reasoning/))
+--!>
