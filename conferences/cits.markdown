@@ -88,13 +88,14 @@ Selected papers published in Federica Russo & Jon Williamson (eds): [Causality a
 [Erik Weber](https://biblio.ugent.be/person/801000630860): Philosophy, Ghent  
 [Jon Williamson](https://jonwilliamson.uk/): Philosophy, Manchester
 
+<!---
+
 <br>
 
 * * *
 
 <br>
 
-<!---
 ### Related Events
 
 11 August 2011 – **Third UCL-Kent workshop on causality** (UCL, [Centre for Reasoning](http://www.kent.ac.uk/reasoning))
