@@ -93,7 +93,8 @@ Selected papers published in Federica Russo & Jon Williamson (eds): [Causality a
 * * *
 
 <br>
-<!--
+
+<!---
 ### Related Events
 
 11 August 2011 – **Third UCL-Kent workshop on causality** (UCL, [Centre for Reasoning](http://www.kent.ac.uk/reasoning))
@@ -104,9 +105,7 @@ Selected papers published in Federica Russo & Jon Williamson (eds): [Causality a
 Organised by [Federica Russo](/cdn-cgi/l/email-protection#ec8ac29e999f9f83ac87898298c28d8fc29987) and [Phyllis McKay Illari](/cdn-cgi/l/email-protection#0d7d23606e666c744d66686379236c6e237866).  
 Slides: [Neil Bramley](http://blogs.kent.ac.uk/jonw/files/2015/03/Bramley.pptx), [Lorenzo Casini](https://prezi.com/secure/7ed594286a2b8098e2ef3e475144347c1ea2480a/), [Luis Mireles-Flores & Francois Claveau](https://prezi.com/secure/7ed594286a2b8098e2ef3e475144347c1ea2480a/), [Phyllis McKay Illari](http://blogs.kent.ac.uk/jonw/files/2015/03/Illari06-11.pptx), [Eric Raidl](http://blogs.kent.ac.uk/jonw/files/2015/03/Raidl2011.pdf), [Federica Russo](http://blogs.kent.ac.uk/jonw/files/2015/03/Russo.pptx)
 
-[![DSC08210_s0201](http://blogs.kent.ac.uk/jonw/files/2015/03/DSC08210_s0201-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/DSC08210_s0201.jpg)[![DSC08213_s0202](http://blogs.kent.ac.uk/jonw/files/2015/03/DSC08213_s0202-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/DSC08213_s0202.jpg)
-
-
+[![DSC08210_s0201](http://blogs.kent.ac.uk/jonw/files/2015/03/DSC08210_s0201-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/DSC08210_s0201.jpg)[![DSC08213_s0202](http://blogs.kent.ac.uk/jonw/files/2015/03/DSC08213_s0202-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/DSC08213_s0202.jpg) 
 
 10-11 January 2011 – **Work in progress on causality and evidence** (Kent Brussels Campus, [Centre for Reasoning](http://www.kent.ac.uk/reasoning))
 
@@ -120,8 +119,6 @@ Slides: [Bruno Bauwens](http://users.ugent.be/~bbauwens/papers/brunoBauwensCausI
 Speakers include Phyllis Illari; Federica Russo; Jan Lemiere; Meinard Kuhlmann
 
 [![IMG_0039_s0301](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0039_s0301-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0039_s0301.jpg)[![IMG_0041_s0302](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0041_s0302-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0041_s0302.jpg)[![IMG_0040_s0303](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0040_s0303-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0040_s0303.jpg)[![IMG_0044_s0304](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0044_s0304-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0044_s0304.jpg)[![IMG_0047_s0305](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0047_s0305-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0047_s0305.jpg)[![IMG_0051_s0306](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0051_s0306-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0051_s0306.jpg)[![IMG_0046_s0306](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0046_s0306-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0046_s0306.jpg)[![IMG_0048_s0307](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0048_s0307-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0048_s0307.jpg)[![IMG_0045_s0308](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0045_s0308-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0045_s0308.jpg)[![IMG_0049_s0309](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0049_s0309-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/IMG_0049_s0309.jpg)
-
-
 
 28-29 June 2010 – **Work in progress in causal and probabilistic reasoning** (Kent Reid Hall Campus, Paris, [Centre for Reasoning](http://www.kent.ac.uk/reasoning))
 
@@ -143,6 +140,7 @@ Speakers include Phyllis Illari; Federica Russo; Jan Lemiere; Meinard Kuhlmann
 
 Spring 2009: **Reading group, Belgium**  
 25 February: [Picket and Pearl 01](http://blogs.kent.ac.uk/jonw/files/2015/03/Picket-and-Pearl-01.pdf), [Courgeau 03](http://blogs.kent.ac.uk/jonw/files/2015/03/Courgeau-03.pdf) (3.00-5.30pm, [room 5k327 VUB](http://www.vub.ac.be/english/infoabout/campuses/index.html))  
+
 8 April: [Heckman 08 – Econometric causality](http://blogs.kent.ac.uk/jonw/files/2015/03/Heckman-08-Econometric-causality.pdf) (3.30-5.30pm, [room KE.2.16 VUB](http://www.vub.ac.be/english/infoabout/campuses/index.html))  
 6 May: [Machamer 04 – Activities and Causation](http://blogs.kent.ac.uk/jonw/files/2015/03/Machamer-04-Activities-and-Causation.pdf), [Bogen 08 – Causally productive activities](http://blogs.kent.ac.uk/jonw/files/2015/03/Bogen-08-Causally-productive-activities.pdf) (3.30-5.30pm, [room KE.2.16 VUB](http://www.vub.ac.be/english/infoabout/campuses/index.html))  
 2 June: sections 1-4 of [Menzies 04 – Difference-making in context](http://blogs.kent.ac.uk/jonw/files/2015/03/Menzies-04-Difference-making-in-context.pdf), and [Menzies 04 – Causation in context](http://blogs.kent.ac.uk/jonw/files/2015/03/Menzies-04-Causation-in-context.pdf) (3.30-5.30pm, [room KE.2.16 VUB](http://www.vub.ac.be/english/infoabout/campuses/index.html))
@@ -161,7 +159,6 @@ Spring 2009: [Causal inference seminar and discussion group](http://talks.cam.ac
 [![18122008(002)_s0403](http://blogs.kent.ac.uk/jonw/files/2015/03/18122008002_s0403-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/18122008002_s0403.jpg)[![18122008(001)_s0404](http://blogs.kent.ac.uk/jonw/files/2015/03/18122008001_s0404-150x150.jpg)](http://blogs.kent.ac.uk/jonw/files/2015/03/18122008001_s0404.jpg)
 
 
-
 Autumn 2008: **Reading group, Belgium**  
 14 October: [Psillos – A Glimpse of the Secret Connexion: Harmonising Mechanisms with Counterfactuals](http://www.phs.uoa.gr/~psillos/Publications_files/Psillos-PoS.pdf) (3-5pm, [room 5k327 VUB](http://www.vub.ac.be/english/infoabout/campuses/index.html))  
 18 November: [Gerring 05 – Causation – a unified framework for the social sciences](http://blogs.kent.ac.uk/jonw/files/2015/03/Gerring-05-Causation-a-unified-framework-for-the-social-sciences.pdf) (3-5pm, [room 5k327 VUB](http://www.vub.ac.be/english/infoabout/campuses/index.html))  
@@ -169,5 +166,5 @@ Autumn 2008: **Reading group, Belgium**
 
 
 
-23 July 2008 – **Kent-UCL workshop on causality and linking mechanisms** (CGU2, 1-6pm, Kent [Centre for Reasoning](http://www.kent.ac.uk/reasoning/))
+23 July 2008 – **Kent-UCL workshop on causality and linking mechanisms** (CGU2, 1-6pm, Kent [Centre for Reasoning](http://www.kent.ac.uk/reasoning/)
 --!>
