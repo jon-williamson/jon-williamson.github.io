@@ -168,4 +168,4 @@ Autumn 2008: **Reading group, Belgium**
 
 
 23 July 2008 – **Kent-UCL workshop on causality and linking mechanisms** (CGU2, 1-6pm, Kent [Centre for Reasoning](http://www.kent.ac.uk/reasoning/)
---!>
+--->
