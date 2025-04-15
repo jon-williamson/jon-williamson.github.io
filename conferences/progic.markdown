@@ -77,7 +77,7 @@ A special issue of the _[Journal of Applied Logic](http://www.journals.elsevier.
 [Jan-Willem Romeijn](https://romeijn.web.rug.nl/): Department of Philosophy, University of Groningen  
 <!-- [Marta Sznajder](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/sznajder/index.html): Munich Center for Mathematical Philosophy  -->
 [Gregory Wheeler](http://gregorywheeler.org/): Centre for Human and Machine Intelligence, Frankfurt School of Finance and Management  
-[Jon Williamson](https://jonwilliamson.uk/): Department of Philosophy & Centre for Reasoning, University of Kent  
+[Jon Williamson](https://jonwilliamson.uk/): Department of Philosophy & Centre for Reasoning, University of Manchester  
 [Francesca Zaffora Blando](https://francescazafforablando.com/): Philosophy, Carnegie Mellon University
 
 

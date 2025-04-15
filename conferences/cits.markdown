@@ -7,9 +7,19 @@ exclude: true
 
 ### Forthcoming Conferences
 
-Causality and Policy in the Sciences  
-Antwerp University, September 2025  
-Please check back for more information
+Call for a host for the 2026 Conference on Causality in the Sciences.
+ 
+The Causality in the Sciences (CitS) conference series comprises interdisciplinary conferences on new research on causality and causal inference in the sciences. These conferences aim to connect philosophical work on causality and actual scientific practice. Previous conferences have focused on topics such as Causality in Epidemiology (2024) and Heuristics and Causality in the Sciences (2023), for example. 
+ 
+The steering committee is calling for a host for CitS 2026. If you would be interesting in hosting this conference, please send a brief proposal to one of the committee members by 1st June 2025.
+ 
+Please include in your proposal:
+-          Host university and department
+-          Local organisers
+-          Conference theme 
+-          Proposed dates
+-          Proposed number of invited speakers
+-          Source of funds
 
 ### Past Conferences
 
@@ -71,12 +81,12 @@ Selected papers published in Federica Russo & Jon Williamson (eds): [Causality a
 ### Steering Committee
 
 [Phyllis Illari](https://www.ucl.ac.uk/sts/staff/illari): Science & Technology Studies, UCL  
-[Samantha Kleinberg](http://www.skleinberg.org/), Computing, Stevens  
+[Samantha Kleinberg](http://www.skleinberg.org/), Computer Science, Stevens  
 [Bert Leuridan](https://www.uantwerpen.be/en/staff/bert-leuridan/), Philosophy, Antwerp & Ghent  
 [Julian Reiss](http://jreiss.org/): Philosophy, Linz  
-[Federica Russo](https://www.uu.nl/staff/FRusso): Philosophy, Utrecht  
+[Federica Russo](https://www.uu.nl/staff/FRusso): History and Philosophy of Science, Utrecht  
 [Erik Weber](https://biblio.ugent.be/person/801000630860): Philosophy, Ghent  
-[Jon Williamson](https://jonwilliamson.uk/): Philosophy, Kent
+[Jon Williamson](https://jonwilliamson.uk/): Philosophy, Manchester
 
 <br>
 
