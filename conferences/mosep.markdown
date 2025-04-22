@@ -16,7 +16,7 @@ exclude: true
 
 # 2025
 
-14 May, 3-4.30pm. [Christopher Clarke](https://www.chrisclarke.eu/) (Rotterdam). **Against causal pluralism**.
+12 May, 3-4.30pm. [Christopher Clarke](https://www.chrisclarke.eu/) (Rotterdam). **Against causal pluralism**.
 > Causal pluralism claims that there are two types of causation: causal difference-making, which is defined in terms of counterfactual conditionals; and causal production which cannot be defined in terms of counterfactuals. Quantitative social science studies causal difference-making, while qualitative social science studies causal production. Or so it is claimed. I argue against causal pluralism from a conceptual engineering perspective. While the concept of causal difference-making has a clear role to play in our reasoning (namely guiding rational decision-making), the concept of causal production does not have a clear role to play. For example, I look at the suggestion that causal production might have a role to play in helping us decide who is morally and legally responsible for a given outcome. I argue against this suggestion, thereby casting doubt on causal pluralism. In light of this, qualitative social scientists would be better off adopting evidential pluralism rather than causal pluralism. (Throughout the talk I will also advertise some results from my draft monograph "Causation Reengineered".)
 
 16 June, 2-3.30pm [Phyllis Illari](https://www.ucl.ac.uk/sts/people/prof-phyllis-illari) (UCL). **Epistemic games and causal problems: a framework for teaching the evaluation of scientific information**.
