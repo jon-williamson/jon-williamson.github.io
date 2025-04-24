@@ -28,7 +28,7 @@ The framework introduced in this paper is based on the philosophical classificat
 
 21 July. 3-4.30pm [Rosa Runhardt](https://www.ru.nl/en/people/runhardt-r) (Radboud). **Evidential Pluralism and educational ethnography**.
 
-22 September. 3-4.30pm [Jonathan Fuller](https://jonathanfuller.ca/about) (Pittsburgh). 
+22 September. 3-4.30pm [Jonathan Fuller](https://jonathanfuller.ca/about) (Pittsburgh). **An argument framework for evidence synthesis and evidence-to-decision analysis**.
 
 <center>
 <a href="/projects/images/divider.jpg"><img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
