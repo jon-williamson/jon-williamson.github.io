@@ -52,6 +52,10 @@ Michael Wilde & Jon Williamson: **Evidential Pluralism and IARC**,  _IARC Monogr
 
 We organise a series of [**Manchester online seminars on Evidential Pluralism**](/mosep). 
 
+19-23 May 2025. Alexandra Trofimov and Joe Walsh. **Mitigating bias by systematically integrating heterogeneous evidence using Evidential Pluralism.** [UK Evaluation Conference 2025](https://evaluation.org.uk/community-learning/events/evaluation-conference/)
+
+14 April 2025. Alexandra Trofomov. **How Evidential Pluralism mitigates Epistemic Injustice in evidence-based evaluation.** [Manchester Online Seminars on Evidential Pluralism](https://jonwilliamson.uk/mosep).
+
 5 April 2025. Jon Williamson. **Can Evidential Pluralism mitigate bias and motivated reasoning?**, [Evidence-Based Medicine Reconsidered](https://www.centerphilsci.pitt.edu/event/evidence-based-medicine-reconsidered/), University of Pittsburgh.
 
 26 February 2025. Jon Williamson. **Towards science-friendly epistemology**, 15.10-16.50, Roscoe 3.2, University of Manchester.
