@@ -52,6 +52,8 @@ Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approa
 
 11-12 June 2025. Sahanika Ratnayake. **Who Knows What in Mental Healthcare?** Epistemic Hypocrisy and the Evaluation of Talking Therapy via Evidence Based Medicine (Radboud University).
 
+8-9 May 2005. Corrado Matta, Rosa Runhardt and Jon Williamson. **The role of meta–ethnographies in evidence–based educational policy**. Workshop on Evidential pluralism in education research, Vaxjo.
+
 <!--
 5 February 2025. Jon Williamson. **An objective Bayesian approach to inductive logic**. Department of Logic and the Methodology of Sciences, Comenius University, Bratislava.
 -->
