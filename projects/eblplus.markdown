@@ -54,6 +54,15 @@ Michael Wilde & Jon Williamson: **Evidential Pluralism and IARC**,  _IARC Monogr
 
 We organise a series of [**Manchester online seminars on Evidential Pluralism**](/mosep). 
 
+20 June 2025. **Workshop on evidence-based law**. University of Manchester.
+>Speakers: 
+John Coggon (Bristol, Law)
+Lucy Frith (Manchester, Law)
+Rebecca Helm (Exeter, Law)
+Alexandra Trofimov (Manchester, Philosophy)
+Michael Wilde (Kent, KMMS)
+
+
 19-23 May 2025. Alexandra Trofimov and Joe Walsh. **Mitigating bias by systematically integrating heterogeneous evidence using Evidential Pluralism.** [UK Evaluation Conference 2025](https://evaluation.org.uk/community-learning/events/evaluation-conference/)
 
 8-9 May 2005. Corrado Matta, Rosa Runhardt and Jon Williamson. **The role of meta–ethnographies in evidence–based educational policy**. Workshop on Evidential pluralism in education research, Vaxjo.
