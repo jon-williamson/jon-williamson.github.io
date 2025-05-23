@@ -48,9 +48,13 @@ Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approa
 
 # Activities & talks
 
-15-17 July 2025. Sahanika Ratnayake. **The need for evidential plurality in the evaluation of psychotherapy**. British Society for the Philosophy of Science (University of Glasgow).
+15-17 July 2025. Sahanika Ratnayake. **The need for evidential plurality in the evaluation of psychotherapy**. British Society for the Philosophy of Science, Glasgow.
 
-11-12 June 2025. Sahanika Ratnayake. **Who Knows What in Mental Healthcare?** Epistemic Hypocrisy and the Evaluation of Talking Therapy via Evidence Based Medicine (Radboud University).
+12-13 June 2025. Luana Poliseli & Jon Williamson **Science-informed policy evaluation via Evidential Pluralism**. [Philosophy of science advice workshop](https://scientificadvice.eu/events/philosophy-of-science-advice-workshop/), Helsinki.
+
+11-12 June 2025. Sahanika Ratnayake. **Who Knows What in Mental Healthcare?**. Epistemic Hypocrisy and the Evaluation of Talking Therapy via Evidence Based Medicine, Radboud University.
+
+21 May 2025. Sahanika Ratnayake. **'What the Big Three Actually Said: Rosenzweig, Frank and Rogers on the Dodo Bird problem**. Institute of Applied Psychology, Krakow.
 
 8-9 May 2005. Corrado Matta, Rosa Runhardt and Jon Williamson. **The role of meta–ethnographies in evidence–based educational policy**. Workshop on Evidential pluralism in education research, Vaxjo.
 
