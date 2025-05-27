@@ -16,7 +16,7 @@ For a quick introduction to Evidential Pluralism and its applications, see [this
 <!--For a recent introductory talk on Evidential Pluralism, see
 <p style="padding-left: 40px;"><a href="https://videocast.nih.gov/watch=52416">Video recording</a>. Jon Williamson: <strong>A New Framework for Causal Inference in the Health and Social Sciences</strong>, <a href="https://calendar.nih.gov/event/view/43740">National Institutes of Health</a>. 16 November 2023.</p>-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6smYKKAztKU?si=qrtRnTCckQ2AHEB4&amp;start=85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p style="padding-left: 40px;"><iframe width="280" height="157" src="https://www.youtube.com/embed/6smYKKAztKU?si=qrtRnTCckQ2AHEB4&amp;start=85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 Evidential Pluralism is a collaborative research programme. Please get in touch if you'd like to be involved.  
 
