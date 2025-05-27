@@ -10,7 +10,7 @@ exclude: true
 - Establishing causation normally requires establishing that the putative cause and effect are both appropriately correlated and connected by an appropriate mechanism ('object pluralism');
 - So, evaluating causation requires scrutinising both association studies and mechanistic studies, where available ('study pluralism').
 
-For a quick introduction to Evidential Pluralism and its applications, see [this handout](documents/EP-intro.pdf), [this podcast](https://www.youtube.com/embed/6smYKKAztKU?si=qrtRnTCckQ2AHEB4&amp;start=85), or
+For a quick introduction to Evidential Pluralism and its applications, see [this handout](documents/EP-intro.pdf), [this podcast](https://www.youtube.com/embed/6smYKKAztKU?si=qrtRnTCckQ2AHEB4&amp;start=85){:target="_blank"}, or
 <p style="padding-left: 40px;"><strong>Focus on Evidential Pluralism</strong>, <em>The Reasoner </em>15(6), 2021. <a href="https://blogs.kent.ac.uk/thereasoner/files/2021/11/TheReasoner-156.pdf"><img class="alignnone" src="/images/openaccess.jpg" alt="" width="44" height="16" border="0" /><img class="alignnone" src="/images/acrobat.gif" alt="" width="16" height="16" border="0" /></a></p>
 
 <!--For a recent introductory talk on Evidential Pluralism, see
