@@ -10,13 +10,14 @@ exclude: true
 - Establishing causation normally requires establishing that the putative cause and effect are both appropriately correlated and connected by an appropriate mechanism ('object pluralism');
 - So, evaluating causation requires scrutinising both association studies and mechanistic studies, where available ('study pluralism').
 
-For a quick introduction to Evidential Pluralism and its applications, see [this handout](documents/EP-intro.pdf) or
+For a quick introduction to Evidential Pluralism and its applications, see [this handout](documents/EP-intro.pdf), [this podcast](https://www.youtube.com/embed/6smYKKAztKU?si=qrtRnTCckQ2AHEB4&amp;start=85), or
 <p style="padding-left: 40px;"><strong>Focus on Evidential Pluralism</strong>, <em>The Reasoner </em>15(6), 2021. <a href="https://blogs.kent.ac.uk/thereasoner/files/2021/11/TheReasoner-156.pdf"><img class="alignnone" src="/images/openaccess.jpg" alt="" width="44" height="16" border="0" /><img class="alignnone" src="/images/acrobat.gif" alt="" width="16" height="16" border="0" /></a></p>
 
 <!--For a recent introductory talk on Evidential Pluralism, see
 <p style="padding-left: 40px;"><a href="https://videocast.nih.gov/watch=52416">Video recording</a>. Jon Williamson: <strong>A New Framework for Causal Inference in the Health and Social Sciences</strong>, <a href="https://calendar.nih.gov/event/view/43740">National Institutes of Health</a>. 16 November 2023.</p>-->
 
-<p style="padding-left: 40px;"><iframe width="280" height="157" src="https://www.youtube.com/embed/6smYKKAztKU?si=qrtRnTCckQ2AHEB4&amp;start=85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<!--
+<p style="padding-left: 40px;"><iframe width="280" height="157" src="https://www.youtube.com/embed/6smYKKAztKU?si=qrtRnTCckQ2AHEB4&amp;start=85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>-->
 
 Evidential Pluralism is a collaborative research programme. Please get in touch if you'd like to be involved.  
 
