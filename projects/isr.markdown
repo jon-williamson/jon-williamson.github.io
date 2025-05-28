@@ -22,15 +22,15 @@ This project is supported by the new [UKRI interdisciplinary scheme](https://www
 
 [**Rebecca Helm**](https://law.exeter.ac.uk/people/profile/index.php?web_id=helm) (co-leader), Law School, University of Exeter.
 
-**Luana Poliseli Ramos** (Research Associate), Philosophy Department, University of Manchester.
+[**Luana Poliseli Ramos**](https://research.manchester.ac.uk/en/persons/luana-poliseli-ramos) (Research Associate), Philosophy Department, University of Manchester.
 
-**Sahanika Ratnayake** (Research Associate), Philosophy Department, University of Manchester.
+[**Sahanika Ratnayake**](https://research.manchester.ac.uk/en/persons/sahanika-ratnayake) (Research Associate), Philosophy Department, University of Manchester.
 
 <!--<img style="float: right;" src="/images/jw.jpg" alt="" width="100"  />-->[**Jon Williamson**](/about) (PI), Philosophy Department, University of Manchester.
 
 
 <center>
-<p> <a href="https://www.phc.ox.ac.uk/team/trish-greenhalgh"><img class="wp-image-2222 alignnone" src="images/tg.jpg" alt="Trish Greenhalgh" height="170" /></a> <a href="https://law.exeter.ac.uk/people/profile/index.php?web_id=helm"><img src="images/rh.jpg" alt="Rebecca Helm" height="170" /></a> <img src="images/lp.jpg" alt="Luana Poliseli" height="170" /> <img src="images/sr.jpg" alt="Sahanika Ratnayake" height="170" /> <a href="/about" target="_blank" rel="noopener noreferrer"><img src="/images/jw.jpg" alt="Jon Williamson" height="170" /></a> </p>
+<p> <a href="https://www.phc.ox.ac.uk/team/trish-greenhalgh"><img class="wp-image-2222 alignnone" src="images/tg.jpg" alt="Trish Greenhalgh" height="170" /></a> <a href="https://law.exeter.ac.uk/people/profile/index.php?web_id=helm"><img src="images/rh.jpg" alt="Rebecca Helm" height="170" /></a> <a href="https://research.manchester.ac.uk/en/persons/luana-poliseli-ramos"><img src="images/lp.jpg" alt="Luana Poliseli" height="170" /></a> <a href="https://research.manchester.ac.uk/en/persons/sahanika-ratnayake"><img src="images/sr.jpg" alt="Sahanika Ratnayake" height="170" /></a> <a href="/about" target="_blank" rel="noopener noreferrer"><img src="/images/jw.jpg" alt="Jon Williamson" height="170" /></a> </p>
 </center>
 
 <center>
