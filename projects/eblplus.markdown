@@ -56,7 +56,7 @@ We organise a series of [**Manchester online seminars on Evidential Pluralism**]
 
 20 June 2025. **Workshop on evidence-based law**. University of Manchester.
 >9.15-9.30am: Arrival/registration
-9.30-10.30am: Alexandra Trofimov (Manchester): ‘Evidence-Based Law: Why and How’
+>9.30-10.30am: Alexandra Trofimov (Manchester): ‘Evidence-Based Law: Why and How’
 10.30-11am: Coffee break
 11-12: John Coggon (Bristol): ‘Evidence-based Law and Challenges of Evidential Pluralism and Plural Understandings of Law’
 12-1pm: Rebecca Helm (Exeter): ‘Utilising Associative and Mechanistic Evidence in Rights-Based Analysis’. 
