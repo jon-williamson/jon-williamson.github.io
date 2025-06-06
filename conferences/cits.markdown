@@ -7,19 +7,8 @@ exclude: true
 
 ### Forthcoming Conferences
 
-Call for a host for the 2026 Conference on Causality in the Sciences.
- 
-The Causality in the Sciences (CitS) conference series comprises interdisciplinary conferences on new research on causality and causal inference in the sciences. These conferences aim to connect philosophical work on causality and actual scientific practice. Previous conferences have focused on topics such as Causality in Epidemiology (2024) and Heuristics and Causality in the Sciences (2023), for example. 
- 
-The steering committee is calling for a host for CitS 2026. If you would be interesting in hosting this conference, please send a brief proposal to one of the committee members by 1st June 2025.
- 
-Please include in your proposal:
--          Host university and department
--          Local organisers
--          Conference theme 
--          Proposed dates
--          Proposed number of invited speakers
--          Source of funds
+**CauseMed 2026:** Causality and Causal Inference in Medicine
+University of Seville, October 2026
 
 ### Past Conferences
 
