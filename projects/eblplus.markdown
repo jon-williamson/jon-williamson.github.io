@@ -54,17 +54,19 @@ Michael Wilde & Jon Williamson: **Evidential Pluralism and IARC**,  _IARC Monogr
 
 We organise a series of [**Manchester online seminars on Evidential Pluralism**](/mosep). 
 
-20 June 2025. **Workshop on evidence-based law**. University of Manchester.
+20 June 2025. **Workshop on evidence-based law**. University of Manchester. Organised by Alexandra Trofimov.
 >9.15-9.30am: Arrival/registration  
 9.30-10.30am: Alexandra Trofimov (Manchester): ‘Evidence-Based Law: Why and How’  
 10.30-11am: Coffee break  
 11-12: John Coggon (Bristol): ‘Evidence-based Law and Challenges of Evidential Pluralism and Plural Understandings of Law’  
-12-1pm: Rebecca Helm (Exeter): ‘Utilising Associative and Mechanistic Evidence in Rights-Based Analysis’.   
+12-1pm: Rebecca Helm (Exeter): ‘Utilising Associative and Mechanistic Evidence in Rights-Based Analysis’  
 1-2pm: Lunch  
 2-3pm: Michael Wilde (Kent): ‘Evidence-Based Accounts of Establishing’  
-2-4pm: Lucy Frith (Manchester): ‘The use and misuse of evidence to inform regulatory change in reproductive technologies – the case of gamete donation’
+3-4pm: Lucy Frith (Manchester): ‘The use and misuse of evidence to inform regulatory change in reproductive technologies – the case of gamete donation’
 
 <!-- Speakers: John Coggon (Bristol, Law), Lucy Frith (Manchester, Law), Rebecca Helm (Exeter, Law), Alexandra Trofimov (Manchester, Philosophy), Michael Wilde (Kent, KMMS) !-->
+
+18 June 2023. Alexandra Trofimov. **Evidence and epistemic injustice.** Addressing Causal Questions in Higher Education Evaluation, LSE.
 
 19-23 May 2025. Alexandra Trofimov and Joe Walsh. **Mitigating bias by systematically integrating heterogeneous evidence using Evidential Pluralism.** [UK Evaluation Conference 2025](https://evaluation.org.uk/community-learning/events/evaluation-conference/)
 
