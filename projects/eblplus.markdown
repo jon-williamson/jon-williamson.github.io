@@ -56,13 +56,13 @@ We organise a series of [**Manchester online seminars on Evidential Pluralism**]
 
 20 June 2025. **Workshop on evidence-based law**. University of Manchester. Organised by Alexandra Trofimov.
 >9.15-9.30am: Arrival/registration  
-9.30-10.30am: Alexandra Trofimov (Manchester): ‘Evidence-Based Law: Why and How’  
+9.30-10.30am: Jon Williamson (Manchester): ‘Applying Evidential Pluralism to Evidence-Based Law: EBL+’  
 10.30-11am: Coffee break  
-11-12: John Coggon (Bristol): ‘Evidence-based Law and Challenges of Evidential Pluralism and Plural Understandings of Law’  
-12-1pm: Rebecca Helm (Exeter): ‘Utilising Associative and Mechanistic Evidence in Rights-Based Analysis’  
-1-2pm: Lunch  
-2-3pm: Michael Wilde (Kent): ‘Evidence-Based Accounts of Establishing’  
-3-4pm: Lucy Frith (Manchester): ‘The use and misuse of evidence to inform regulatory change in reproductive technologies – the case of gamete donation’
+11-12: Rebecca Helm (Exeter): ‘Utilising Associative and Mechanistic Evidence in Rights-Based Analysis’.  
+12-1pm: Michael Wilde (Kent): ‘Evidential Pluralism and Accounts of Establishing’  
+1-2pm: Lunch (Williamson Building, room 4.08 (4th floor).  
+2-3pm: Alexandra Trofimov (Manchester): ‘Why Do We Need Evidence-Based Law?’  
+3-4pm: John Coggon (Bristol): ‘Evidence-based Law and Challenges of Evidential Pluralism and Plural Understandings of Law’
 
 <!-- Speakers: John Coggon (Bristol, Law), Lucy Frith (Manchester, Law), Rebecca Helm (Exeter, Law), Alexandra Trofimov (Manchester, Philosophy), Michael Wilde (Kent, KMMS) !-->
 
