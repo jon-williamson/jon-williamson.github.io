@@ -8,7 +8,7 @@ exclude: true
 ### Forthcoming Conferences
 
 **CauseMed 2026:** **Causality and Causal Inference in Medicine**  
-University of Seville, October 2026
+University of Seville, 8-9 October 2026
 
 ### Past Conferences
 
