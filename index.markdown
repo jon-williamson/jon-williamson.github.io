@@ -22,7 +22,7 @@ __Research projects__:
 __Monograph__:
 
 <a href="https://www.routledge.com/Evidential-Pluralism-in-the-Social-Sciences/Shan-Williamson/p/book/9780367697228"><img title="EPitSS" alt="Evidential Pluralism in the Social Sciences" src="/images/boo.svg" style="float: right;" width="180" height="270" border=0 src="images/EPitSS.jpg"></a> <span style="color: #993300">Yafeng Shan and Jon Williamson:</span> <strong><a title="This volume contends that Evidential Pluralism - an account of the epistemology of causation, which maintains that in order to establish a causal claim one needs to establish the existence of a correlation and the existence of a mechanism - can be fruitfully applied to the social sciences. Through case studies in sociology, economics, political science and law, it advances new philosophical foundations for causal enquiry in the social sciences. The book provides an account of how to establish and evaluate causal claims and it offers a new way of thinking about evidence-based policy, basic social science research and mixed methods research. As such, it will appeal to scholars with interests in social science research and methodology, the philosophy of science and evidence-based policy.">Evidential Pluralism in the Social Sciences</a></strong>, Routledge 2023. [![EPitSS](images/openaccess.jpg)][9780367697228] ISBN [9780367697228][9780367697228]  
-- [Precis](https://doi.org/10.1007/s44204-025-00301-y), _Asian Journal of Philosophy_ 4(2):77, 2005. 
+- [Precis](https://doi.org/10.1007/s44204-025-00301-y), _Asian Journal of Philosophy_ 4(2):77, 2025. Doi [10.1007/s44204-025-00301-y](https://doi.org/10.1007/s44204-025-00301-y)
 <br/><br/>
 
 <strong>Edited collections</strong>:
