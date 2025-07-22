@@ -25,6 +25,7 @@ __Monograph__:
 
 _Asian Journal of Philosophy_ published a [symposium on the book](https://link.springer.com/collections/gjcfhagdgf), ed. Jie Gao, including:
 - [**Precis**](https://doi.org/10.1007/s44204-025-00301-y), _Asian Journal of Philosophy_ 4(2):77, 2025. Doi [10.1007/s44204-025-00301-y](https://doi.org/10.1007/s44204-025-00301-y)
+- [**Responses to criticisms**](https://doi.org/10.1007/s44204-025-00302-x), _Asian Journal of Philosophy_ 4(2):80, 2025. Doi [110.1007/s44204-025-00302-x](https://doi.org/10.1007/s44204-025-00302-x)
 <br/><br/>
 
 <strong>Edited collections</strong>:
