@@ -18,6 +18,8 @@ exclude: true
 
 22 September. 3-4.30pm [Jonathan Fuller](https://jonathanfuller.ca/about) (Pittsburgh). **An argument framework for evidence synthesis and evidence-to-decision analysis**.
 
+21 October. 3-4.30pm [Miriam Solomon](https://sites.temple.edu/miriamsolomon/) (Temple University). TBC
+
 3 November. 3-4.30pm. [David Fisman](https://www.dlsph.utoronto.ca/faculty-profile/fisman-david-n/) (Toronto). **Modelling, Imagination and Causality**.
 
 <center>

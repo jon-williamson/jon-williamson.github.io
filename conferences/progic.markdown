@@ -10,7 +10,7 @@ exclude: true
 
 **[progic 2025: The Twelfth Workshop on Combining Probability and Logic](https://www.cmu.edu/progic2025/)**  
 **Special focus: Theoretical Approaches to Learning and Learnability**  
-Carnegie Mellon University, Pittsburgh, USA, 3-5 April 2025
+Carnegie Mellon University, Pittsburgh, USA, 3-5 April 2025  
 A workshop report appeared in [_The Reasoner_ 19(3)](https://riviste.unimi.it/index.php/thereasoner/article/view/28914):34-38.
 
 ### Past Workshops
