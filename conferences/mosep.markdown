@@ -16,7 +16,7 @@ exclude: true
 
 # 2025
 
-22 September. 3-4.30pm [Jonathan Fuller](https://jonathanfuller.ca/about) (Pittsburgh). **An argument framework for evidence synthesis and evidence-to-decision analysis**.
+29 September. 3-4.30pm [Jonathan Fuller](https://jonathanfuller.ca/about) (Pittsburgh). **An argument framework for evidence synthesis and evidence-to-decision analysis**.
 
 21 October. 3-4.30pm [Miriam Solomon](https://sites.temple.edu/miriamsolomon/) (Temple University). **How to be an Evidential Pluralist**.
 >I have seen a number of different definitions of evidential pluralism (previously “EBM+”), ranging from the strict Russo-Williamson thesis (2007) to more relaxed views of the appropriate epistemic roles of hypotheses about mechanisms and evidence of mechanisms. In this talk I draw on cases in the recent history of science and medicine, especially the early years of the Covid pandemic, to argue that evidence for the appropriateness of epistemic humility about knowledge of mechanisms supports a more careful description of how to be an evidential pluralist.
