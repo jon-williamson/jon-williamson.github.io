@@ -48,7 +48,15 @@ Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approa
 
 # Activities & talks
 
+27-30 August 2025. Rose Trappes and Luana Poliseli. **Citizen science, aesthetics of nature, and conservation**. EPSA25 – European Philosophy of Science Association, Groningen.
+
+20-25 July 2025. Luana Poliseli. **Arts and Aesthetics in knowledge co-production for environmental conservation and eco-resistance movements**. ISHPSSB – International Society for History, Philosophy and Social Studies of Biology, Porto.
+
+21 July. 3-4.30pm Rosa Runhardt (Radboud) & Jon Williamson (Manchester). **Evidential Pluralism and educational ethnography**. Manchester Online Seminars on Evidential Pluralism ([MOSEP](https://jonwilliamson.uk/mosep)).
+
 15-17 July 2025. Sahanika Ratnayake. **The need for evidential plurality in the evaluation of psychotherapy**. British Society for the Philosophy of Science, Glasgow.
+
+3 July 2025. Luana Poliseli. The left Vienna Circle, democratization of knowledge, and the epistemic functions of aesthetics. Institute Vienna Circle, Vienna.
 
 12-13 June 2025. Luana Poliseli & Jon Williamson **Science-informed policy evaluation via Evidential Pluralism**. [Philosophy of science advice workshop](https://scientificadvice.eu/events/philosophy-of-science-advice-workshop/), Helsinki.
 
