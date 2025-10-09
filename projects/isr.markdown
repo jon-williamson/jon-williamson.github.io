@@ -47,7 +47,7 @@ Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approa
 
 # Project events
 
-13 November 2025. **Qualitative evidence in systematic review**. 1-5.30pm. [Click here](/conferences/qesr.html) for further information.
+13 November 2025. [**Qualitative evidence in systematic review**](/conferences/qesr.html). 1-5.30pm. 
 
 We also organise a series of [**Manchester online seminars on Evidential Pluralism**](/mosep). 
 
