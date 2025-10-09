@@ -45,17 +45,13 @@ Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approa
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
 </center>
 
+# Project events
+
+13 November 2025. **Qualitative evidence in systematic review**. 1-5.30pm. [Click here](/conferences/qesr.html) for further information.
+
+We also organise a series of [online seminars on Evidential Pluralism](/mosep). 
 
 # Activities & talks
-
-13 November 2025. **Qualitative evidence in systematic review**. 1-5.30pm, Arthur Lewis 2.016/2.017 Boardroom. [Register by email to attend](mailto:jon.williamson@manchester.ac.uk?subject=QESR-registration).
-> The focus of this workshop is on the roles that qualitative evidence synthesis may play in evidence-based policy. Examples of questions that are relevant are: Can approaches such as meta-ethnography provide evidence of the effectiveness of a policy, and if so, how? Do qualitative syntheses mitigate the shortcomings of quantitative meta-analyses, or do they provide evidence for some kind of policy-relevant claim on their own?  The workshop will discuss how these approaches to research synthesis can and should be used in evidence-based policy.  
-1pm Coffee  
-1.30-2.30 [Corrado Matta](https://lnu.se/en/staff/corrado.matta/), [Rosa Runhardt](https://www.ru.nl/en/people/runhardt-r) & [Jon Williamson](https://research.manchester.ac.uk/en/persons/jon-williamson). Meta-Ethnography and the Effectiveness of Educational Policy: An Evidential Pluralism Perspective  
-2.30-3.30 [Kate Flemming](https://www.york.ac.uk/healthsciences/our-staff/kate-flemming/). TBC  
-3.30 Coffee  
-4.00-5.00 TBC  
-5.00-5.30 Round-table discussion, led by [Alexandra Trofimov](https://research.manchester.ac.uk/en/persons/alexandra-trofimov)  
 
 27-30 August 2025. Rose Trappes and Luana Poliseli. **Citizen science, aesthetics of nature, and conservation**. EPSA25 – European Philosophy of Science Association, Groningen.
 
@@ -94,7 +90,7 @@ Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approa
 
 # Manchester Online Seminars on Evidential Pluralism
 
-We also organise a series of [online seminars on Evidential Pluralism](/mosep). 
+
 
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
