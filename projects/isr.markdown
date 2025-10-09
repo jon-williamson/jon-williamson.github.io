@@ -49,9 +49,13 @@ Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approa
 
 13 November 2025. **Qualitative evidence in systematic review**. 1-5.30pm. [Click here](/conferences/qesr.html) for further information.
 
-We also organise a series of [online seminars on Evidential Pluralism](/mosep). 
+We also organise a series of [**Manchester online seminars on Evidential Pluralism**](/mosep). 
 
-# Activities & talks
+<center>
+<a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
+</center>
+
+# Talks
 
 27-30 August 2025. Rose Trappes and Luana Poliseli. **Citizen science, aesthetics of nature, and conservation**. EPSA25 – European Philosophy of Science Association, Groningen.
 
@@ -86,11 +90,6 @@ We also organise a series of [online seminars on Evidential Pluralism](/mosep).
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
 </center>
 
-
-
-<center>
-<a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
-</center>
 
 <center>
 <p><a href="images/UKRI-logo.png"><img class="wp-image-2222 alignnone" src="images/UKRI-logo.png" alt="UKRI" height="100" /></a> <a href="images/manchester-logo.gif"><img class="wp-image-2222 alignnone" src="images/manchester-logo.gif" alt="University of Manchester" height="100" /></a> <a href="images/oxford-logo.png"><img src="images/oxford-logo.png" alt="University of Oxford" height="100" /></a> <a href="images/exeter-logo.png" target="_blank" rel="noopener noreferrer"><img src="images/exeter-logo.png" alt="University of Exeter" height="100" /></a></p>
