@@ -88,10 +88,6 @@ We also organise a series of [online seminars on Evidential Pluralism](/mosep).
 
 
 
-# Manchester Online Seminars on Evidential Pluralism
-
-
-
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
 </center>
