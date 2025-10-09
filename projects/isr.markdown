@@ -55,7 +55,7 @@ Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approa
 2.30-3.30 [Kate Flemming](https://www.york.ac.uk/healthsciences/our-staff/kate-flemming/). TBC  
 3.30 Coffee  
 4.00-5.00 TBC  
-5.00-5.30 Round-table discussion, led by Alexandra Trofimov  
+5.00-5.30 Round-table discussion, led by [Alexandra Trofimov](https://research.manchester.ac.uk/en/persons/alexandra-trofimov)  
 
 27-30 August 2025. Rose Trappes and Luana Poliseli. **Citizen science, aesthetics of nature, and conservation**. EPSA25 – European Philosophy of Science Association, Groningen.
 
