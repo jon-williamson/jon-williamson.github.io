@@ -5,7 +5,7 @@ permalink: /conferences/qesr.html
 exclude: true
 ---
 
-<a href="https://commons.wikimedia.org/wiki/File:Drawn_image_illustrating_the_Hierarchy_of_Evidence.png"><img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Drawn_image_illustrating_the_Hierarchy_of_Evidence.png" alt="" width="300" height="341" /></a>13 November 2025. 1-5.30pm, [Arthur Lewis Building](https://www.manchester.ac.uk/about/maps/interactive-map/?id=33) 2.016/2.017 Boardroom, in-person only. 
+<a href="https://commons.wikimedia.org/wiki/File:Drawn_image_illustrating_the_Hierarchy_of_Evidence.png"><img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Drawn_image_illustrating_the_Hierarchy_of_Evidence.png" alt="" width="300" height="341" /></a>13 November 2025. 1-5.30pm, University of Manchester [Arthur Lewis Building](https://www.manchester.ac.uk/about/maps/interactive-map/?id=33) 2.016/2.017 Boardroom, in-person only. 
 
  The focus of this workshop is on the roles that qualitative evidence synthesis may play in evidence-based policy. Examples of questions that are relevant are: Can approaches such as meta-ethnography provide evidence of the effectiveness of a policy, and if so, how? Do qualitative syntheses mitigate the shortcomings of quantitative meta-analyses, or do they provide evidence for some kind of policy-relevant claim on their own?  The workshop will discuss how these approaches to research synthesis can and should be used in evidence-based policy.  
 
