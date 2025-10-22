@@ -14,7 +14,7 @@ __Events__:
 
 __Research projects__:
 
-[**Interdisciplinary Systematic Review: mechanistic evidence and epistemic justice**](/projects/isr) (UKRI 2025-27)
+[**Interdisciplinary Systematic Review: mechanistic evidence and epistemic justice**](https://research.manchester.ac.uk/en/projects/interdisciplinary-systematic-review-mechanistic-evidence-and-epis) (UKRI 2025-27)
 
 [**EBL+: New philosophical foundations for evidence-based law**](/projects/eblplus) (Leverhulme Trust 2023-26)
 <br/><br/>
