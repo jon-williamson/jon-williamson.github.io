@@ -4,17 +4,19 @@ title: Conferences
 permalink: /conferences.html
 ---
 
-[Celebrating Philosophy at Kent (1965-2024)](/conferences/celebrating-kent.html)
-
-<img align="right" width="400" src="images/beach.jpg">[Centre for Reasoning conferences and workshops](http://blogs.kent.ac.uk/jonw/centre-for-reasoning-events/) .
+<img align="right" width="400" src="images/beach.jpg">
+[**Qualitative evidence in systematic review**](/conferences/2025-qesr), 13 November 2025
 
 [Progic Conference Series](/conferences/progic.html "The Progic series")
 
 [Causality in the Sciences Conference Series](/conferences/cits.html "Conferences on Causality in the Sciences")
 
 
-
 **Previous conferences:**
+
+[Celebrating Philosophy at Kent (1965-2024)](/conferences/celebrating-kent.html)
+
+[Centre for Reasoning conferences and workshops](http://blogs.kent.ac.uk/jonw/centre-for-reasoning-events/) .
 
 [Combining probability and logic (progic 2015)](http://blogs.kent.ac.uk/jonw/conferences/progic/progic-2015/ "Progic 2015"), 20-24 April 2015
 

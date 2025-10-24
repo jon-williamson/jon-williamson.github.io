@@ -9,6 +9,8 @@ title: What's New
 
 __Events__:
 
+[**Qualitative evidence in systematic review**](/conferences/2025-qesr), 13 November 2025
+
 [**Manchester online seminars on Evidential Pluralism**](/mosep) 
 <br/><br/>
 
