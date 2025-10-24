@@ -5,7 +5,7 @@ permalink: /conferences.html
 ---
 
 <img align="right" width="400" src="images/beach.jpg">
-[**Qualitative evidence in systematic review**](/conferences/2025-qesr.html), 13 November 2025
+[**Qualitative evidence in systematic review**](/conferences/qesr.html), 13 November 2025
 
 [Progic Conference Series](/conferences/progic.html "The Progic series")
 
