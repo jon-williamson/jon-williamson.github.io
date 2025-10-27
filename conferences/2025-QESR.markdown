@@ -2,7 +2,7 @@
 layout: page
 title: Qualitative evidence in systematic review
 permalink: /conferences/qesr.html
-image: //commons.wikimedia.org/wiki/File:Drawn_image_illustrating_the_Hierarchy_of_Evidence.png
+image: /projects/images/divider.jpg
 exclude: true
 ---
 
