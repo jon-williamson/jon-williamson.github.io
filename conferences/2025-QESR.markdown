@@ -2,7 +2,7 @@
 layout: page
 title: Qualitative evidence in systematic review
 permalink: /conferences/qesr.html
-description: Research workshop, 13 November 2025
+site.description: Research workshop, 13 November 2025
 exclude: true
 ---
 
