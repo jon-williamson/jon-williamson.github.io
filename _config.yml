@@ -21,7 +21,7 @@
 title: Jon Williamson
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Jon Williamson's research pages: Philosophy of Science, Medicine, AI and Law; Epistemology; Metaphysics;  Logic
+  Jon Williamson's research pages: philosophy of science, medicine, AI and law; epistemology; metaphysics; logic
 address: >- # this means to ignore newlines until "baseurl:"
   Philosophy Department, University of Manchester
 baseurl: "" # the subpath of your site, e.g. /blog
