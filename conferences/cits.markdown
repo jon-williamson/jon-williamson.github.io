@@ -28,9 +28,8 @@ Selected papers published in Samantha Kleinberg (ed.), _Time and Causality acros
 **CitSoMaB 2016: [Causality in the Sciences of Mind and Brain](http://conferences.au.dk/causality2016/)**  
 Aarhus, 27-29 June 2016
 
-**CaMitS 2015: [Causality and Modelling in the Sciences](http://portal.uned.es/portal/page?_pageid=93,49819448&_dad=portal&_schema=PORTAL)**  
+**CaMitS 2015: [Causality and Modelling in the Sciences](http://blogs.kent.ac.uk/jonw/files/2015/03/CaMitS-schedule-updates-2.doc)**  
 Madrid, 29 June – 1 July 2015  
-[Programme](http://blogs.kent.ac.uk/jonw/files/2015/03/CaMitS-schedule-updates-2.doc)  
 Selected papers published in Maria Jimenez-Buedo & Federica Russo (eds): [_Disputatio_](https://www.degruyter.com/view/j/disp.2017.9.issue-47/issue-files/disp.2017.9.issue-47.xml) 9(47), 2017.
 
 **CaCitS 2014: [Causality and Complexity in the Sciences](http://www.clde.uni-koeln.de/?page_id=1794)**  
