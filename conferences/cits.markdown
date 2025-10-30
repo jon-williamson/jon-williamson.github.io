@@ -69,13 +69,13 @@ Selected papers published in Federica Russo & Jon Williamson (eds): [Causality a
 
 ### Steering Committee
 
-[Phyllis Illari](https://www.ucl.ac.uk/sts/staff/illari): Science & Technology Studies, UCL  
+[Phyllis Illari](https://profiles.ucl.ac.uk/36448-phyllis-kirstin-illari), Science & Technology Studies, UCL  
 [Samantha Kleinberg](http://www.skleinberg.org/), Computer Science, Stevens  
 [Bert Leuridan](https://www.uantwerpen.be/en/staff/bert-leuridan/), Philosophy, Antwerp & Ghent  
-[Julian Reiss](http://jreiss.org/): Philosophy, Linz  
-[Federica Russo](https://www.uu.nl/staff/FRusso): History and Philosophy of Science, Utrecht  
-[Erik Weber](https://biblio.ugent.be/person/801000630860): Philosophy, Ghent  
-[Jon Williamson](https://jonwilliamson.uk/): Philosophy, Manchester
+[Julian Reiss](http://jreiss.org/), Philosophy, Linz  
+[Federica Russo](https://www.uu.nl/staff/FRusso), History and Philosophy of Science, Utrecht  
+[Erik Weber](https://biblio.ugent.be/person/801000630860), Philosophy, Ghent  
+[Jon Williamson](https://jonwilliamson.uk/), Philosophy, Manchester
 
 <!---
 
