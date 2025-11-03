@@ -57,6 +57,8 @@ We also organise a series of [**Manchester online seminars on Evidential Plurali
 
 # Talks
 
+21 November 2025. Jon Williamson. **Causal inference is not statistical inference: how Evidential Pluralism mitigates the replication crisis**. [Bergen Philosophy of Science Workshop](https://www4.uib.no/en/research/research-groups/philosophy-of-science-and-mathematics/events/bergen-philosophy-of-science-workshop-i). Also, Mainz Epistemology of Science workshop (8 September), University of Liverpool Stapledon Colloquium (15 October), and University of Leeds Centre for Theoretical Philosophy (5 November).
+
 27-30 August 2025. Rose Trappes and Luana Poliseli. **Citizen science, aesthetics of nature, and conservation**. EPSA25 – European Philosophy of Science Association, Groningen.
 
 20-25 July 2025. Luana Poliseli. **Arts and Aesthetics in knowledge co-production for environmental conservation and eco-resistance movements**. ISHPSSB – International Society for History, Philosophy and Social Studies of Biology, Porto.

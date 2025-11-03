@@ -11,7 +11,7 @@ exclude: true
   * To obtain a link, subscribe to the announcement list by [sending this email](mailto:listserv@listserv.manchester.ac.uk?subject=subscribe&body=subscribe%20ep-announcements%20MyFirstname%20MyLastname). (Please first replace "MyFirstname MyLastname" with your name.)
 
 <center>
-<a href="/projects/images/divider.jpg"><img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
+<img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" />
 </center>
 
 # 2025
@@ -23,7 +23,7 @@ exclude: true
 > The concept of epistemic injustice can be a powerful tool for characterizing the experiences of those who strive to address environmental health threats in their communities but who are illegitimately dismissed as being ignorant or misinformed. This talk explores how philosophers can potentially contribute to understanding and alleviating these epistemic injustices—especially hermeneutical injustices—by drawing from the literature on science and values. This literature highlights contingent scientific choices that experts and community members can reasonably handle in different ways. The talk will examine several of these contingent choices, including choices about background assumptions, research questions, and standards of evidence. Additionally, the talk will show how philosophers can carefully consider how particular forms of engaged scholarship with scientists and/or community members would enable them to draw on these insights from the science-and-values literature in the most effective and ethically responsible ways.
 
 <center>
-<a href="/projects/images/divider.jpg"><img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
+<img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" />
 </center>
 
 
@@ -59,7 +59,7 @@ We argue that this narrow conception ignores the extensive volume of knowledge t
 
 
 <center>
-<a href="/projects/images/divider.jpg"><img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" /></a>
+<img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" />
 </center>
 
 These seminars are organised by the team of the [Interdisciplinary Systematic Review](https://research.manchester.ac.uk/en/projects/interdisciplinary-systematic-review-mechanistic-evidence-and-epis) project in the [Philosophy Department](https://www.socialsciences.manchester.ac.uk/philosophy/) at the University of Manchester.
