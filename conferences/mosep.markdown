@@ -22,7 +22,7 @@ exclude: true
 
 23 January. 3-4.30pm. [Lindley Darden](https://philosophy.umd.edu/directory/lindley-darden) (Maryland). **Evaluating Genetic Disease Mechanism Steps: APOE4 and Alzheimer’s Disease**.
 > Science changes with phases of construct, evaluate, revise, then repeat. For decades (centuries?) philosophers of science have focused primarily on evaluation. A current task is to draw on that previous work to develop criteria to evaluate proposed genetic disease mechanisms in medicine. Rather than evaluating the entire mechanism at the outset, the plan is to evaluate the evidence for key steps individually. The proposed criteria are in these categories: extrapolation, statistical assessment, reproducibility, robustness, plus internal and external coherence. The case study is to find the mechanism(s) by which the APOE4 genetic variant increases the risk of Alzheimer's disease. Philosophers are invited to comment on and help to improve this set of criteria.  
-See Moult, John and Lindley Darden (2025 preprint), “Critical Assessment of Disease Mechanisms: APOE4 and Alzheimer’s Disease”. DOI: [10.13140/RG.2.2.25832.17927](https://dx.doi.org/10.13140/RG.2.2.25832.17927)
+See Moult, John and Lindley Darden (2025 preprint), “Critical Assessment of Disease Mechanisms: APOE4 and Alzheimer’s Disease”. DOI: [10.13140/RG.2.2.25832.17927](https://dx.doi.org/10.13140/RG.2.2.25832.17927). See especially Table 1: Evidence Evaluation Criteria.
 
 26 May. 3-4.30pm. [Nancy Cartwright](https://www.durham.ac.uk/staff/nancy-cartwright/) (Durham & UCSD). TBC.
 
