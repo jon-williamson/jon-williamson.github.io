@@ -20,9 +20,13 @@ exclude: true
 1 December. 3-4.30pm. [Kevin C. Elliott](https://kevincelliott.com/) (Michigan). **Alleviating Epistemic Injustice: Strategies from Science and Values**.
 > The concept of epistemic injustice can be a powerful tool for characterizing the experiences of those who strive to address environmental health threats in their communities but who are illegitimately dismissed as being ignorant or misinformed. This talk explores how philosophers can potentially contribute to understanding and alleviating these epistemic injustices—especially hermeneutical injustices—by drawing from the literature on science and values. This literature highlights contingent scientific choices that experts and community members can reasonably handle in different ways. The talk will examine several of these contingent choices, including choices about background assumptions, research questions, and standards of evidence. Additionally, the talk will show how philosophers can carefully consider how particular forms of engaged scholarship with scientists and/or community members would enable them to draw on these insights from the science-and-values literature in the most effective and ethically responsible ways.
 
+# 2026
+
 23 January. 3-4.30pm. [Lindley Darden](https://philosophy.umd.edu/directory/lindley-darden) (Maryland). **Evaluating Genetic Disease Mechanism Steps: APOE4 and Alzheimer’s Disease**.
 > Science changes with phases of construct, evaluate, revise, then repeat. For decades (centuries?) philosophers of science have focused primarily on evaluation. A current task is to draw on that previous work to develop criteria to evaluate proposed genetic disease mechanisms in medicine. Rather than evaluating the entire mechanism at the outset, the plan is to evaluate the evidence for key steps individually. The proposed criteria are in these categories: extrapolation, statistical assessment, reproducibility, robustness, plus internal and external coherence. The case study is to find the mechanism(s) by which the APOE4 genetic variant increases the risk of Alzheimer's disease. Philosophers are invited to comment on and help to improve this set of criteria.  
 See Moult, John and Lindley Darden (2025 preprint), “Critical Assessment of Disease Mechanisms: APOE4 and Alzheimer’s Disease”. DOI: [10.13140/RG.2.2.25832.17927](https://dx.doi.org/10.13140/RG.2.2.25832.17927). See especially Table 1: Evidence Evaluation Criteria.
+
+23 February. 3-4.30pm. [Rani Lill Anjum](https://ranilillanjum.com/) (Norwegian University of Life Sciences). TBC.
 
 26 May. 3-4.30pm. [Nancy Cartwright](https://www.durham.ac.uk/staff/nancy-cartwright/) (Durham & UCSD). TBC.
 
