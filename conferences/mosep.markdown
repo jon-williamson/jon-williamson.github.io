@@ -28,6 +28,8 @@ See Moult, John and Lindley Darden (2025 preprint), “Critical Assessment of Di
 
 23 February. 3-4.30pm. [Rani Lill Anjum](https://ranilillanjum.com/) (Norwegian University of Life Sciences). TBC.
 
+23 April. 11-12.30pm. [Isabel Hanson](https://www.phc.ox.ac.uk/team/isabel-hanson) (Oxford). TBC.
+
 26 May. 3-4.30pm. [Nancy Cartwright](https://www.durham.ac.uk/staff/nancy-cartwright/) (Durham & UCSD). TBC.
 
 <center>
