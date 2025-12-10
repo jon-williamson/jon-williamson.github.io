@@ -20,7 +20,11 @@ exclude: true
 > Science changes with phases of construct, evaluate, revise, then repeat. For decades (centuries?) philosophers of science have focused primarily on evaluation. A current task is to draw on that previous work to develop criteria to evaluate proposed genetic disease mechanisms in medicine. Rather than evaluating the entire mechanism at the outset, the plan is to evaluate the evidence for key steps individually. The proposed criteria are in these categories: extrapolation, statistical assessment, reproducibility, robustness, plus internal and external coherence. The case study is to find the mechanism(s) by which the APOE4 genetic variant increases the risk of Alzheimer's disease. Philosophers are invited to comment on and help to improve this set of criteria.  
 See Moult, John and Lindley Darden (2025 preprint), “Critical Assessment of Disease Mechanisms: APOE4 and Alzheimer’s Disease”. DOI: [10.13140/RG.2.2.25832.17927](https://dx.doi.org/10.13140/RG.2.2.25832.17927). See especially Table 1: Evidence Evaluation Criteria.
 
-23 February. 3-4.30pm. [Rani Lill Anjum](https://ranilillanjum.com/) (Norwegian University of Life Sciences). TBC.
+23 February. 3-4.30pm. [Rani Lill Anjum](https://ranilillanjum.com/) (Norwegian University of Life Sciences). **Combining evidence for establishing causality**.
+> Rani Lill Anjum and Elena Rocca
+Medicine and health science relies on a variety of methods, but do they establish the same thing? It is not uncommon that the available evidence points in different directions with respect to causality. In the standard evidence hierarchy, the priority in case of conflicting evidence is clear. In this presentation, I will argue that the different methods provide some indication of causality, but that none of them are perfect for the task. I will also indicate how different types of qualitative and quantitative evidence can be combined to fill in each other’s blind spots. The argument presented is based on collaborative work with Elena Rocca and Stephen Mumford, and work done in the CauseHealth project (https://causehealthblog.org/).  
+Relevant works: https://pubmed.ncbi.nlm.nih.gov/32168791/
+
 
 17 March. 3-4.30pm. [Caterina Marchionni](https://sites.google.com/site/caterinamarchionni/home) (Milan). TBC.
 
