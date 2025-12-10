@@ -14,12 +14,6 @@ exclude: true
 <img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" />
 </center>
 
-# 2025
-
-
-1 December. 3-4.30pm. [Kevin C. Elliott](https://kevincelliott.com/) (Michigan). **Alleviating Epistemic Injustice: Strategies from Science and Values**.
-> The concept of epistemic injustice can be a powerful tool for characterizing the experiences of those who strive to address environmental health threats in their communities but who are illegitimately dismissed as being ignorant or misinformed. This talk explores how philosophers can potentially contribute to understanding and alleviating these epistemic injustices—especially hermeneutical injustices—by drawing from the literature on science and values. This literature highlights contingent scientific choices that experts and community members can reasonably handle in different ways. The talk will examine several of these contingent choices, including choices about background assumptions, research questions, and standards of evidence. Additionally, the talk will show how philosophers can carefully consider how particular forms of engaged scholarship with scientists and/or community members would enable them to draw on these insights from the science-and-values literature in the most effective and ethically responsible ways.
-
 # 2026
 
 23 January. 3-4.30pm. [Lindley Darden](https://philosophy.umd.edu/directory/lindley-darden) (Maryland). **Evaluating Genetic Disease Mechanism Steps: APOE4 and Alzheimer’s Disease**.
@@ -71,6 +65,9 @@ We argue that this narrow conception ignores the extensive volume of knowledge t
 
 10 November. 3-4.30pm. [David Fisman](https://www.dlsph.utoronto.ca/faculty-profile/fisman-david-n/) (Toronto). **The Idea of Modeling: Climbing the Ladder of Causality in Epidemiology**.
 >Evidence-based medicine frameworks such as GRADE elevate randomized controlled trials (RCTs) as the highest form of causal evidence. But in Judea Pearl’s Ladder of Causality, it is models (simplified representations of reality, often mathematical or graphical in nature) that enable the deepest causal insight. In this talk, I explore two complementary modeling traditions. Infectious disease models are dynamic and recursive, capturing the feedback inherent in epidemics and enabling simulation of interventions over time.  The non-independence of outcomes when diseases are communicable may mean that RCTs are infeasible; the nature of public health emergencies may mean that RCT are unethical. A second modeling framework relates to directed acyclic graphs (DAGs), which are static but powerful tools for clarifying assumptions, identifying confounding, and formalizing causal questions (and are indeed closely related to recent transformative developments in artificial intelligence). Together, these modeling approaches allow us to reason beyond mere association or experimental data. As the late Babak Pourbohloul said: “Models move us from data to understanding. Once we understand, we can predict and control.” Modeling is not a fallback when RCTs fail; it is often the most rigorous and honest way to truly understand how systems work.
+
+1 December. 3-4.30pm. [Kevin C. Elliott](https://kevincelliott.com/) (Michigan). **Alleviating Epistemic Injustice: Strategies from Science and Values**.
+> The concept of epistemic injustice can be a powerful tool for characterizing the experiences of those who strive to address environmental health threats in their communities but who are illegitimately dismissed as being ignorant or misinformed. This talk explores how philosophers can potentially contribute to understanding and alleviating these epistemic injustices—especially hermeneutical injustices—by drawing from the literature on science and values. This literature highlights contingent scientific choices that experts and community members can reasonably handle in different ways. The talk will examine several of these contingent choices, including choices about background assumptions, research questions, and standards of evidence. Additionally, the talk will show how philosophers can carefully consider how particular forms of engaged scholarship with scientists and/or community members would enable them to draw on these insights from the science-and-values literature in the most effective and ethically responsible ways.
 
 <center>
 <img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" />
