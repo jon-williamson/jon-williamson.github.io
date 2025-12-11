@@ -24,8 +24,8 @@ See Moult, John and Lindley Darden (2025 preprint), “Critical Assessment of Di
 > Medicine and health science relies on a variety of methods, but do they establish the same thing? It is not uncommon that the available evidence points in different directions with respect to causality. In the standard evidence hierarchy, the priority in case of conflicting evidence is clear. In this presentation, I will argue that the different methods provide some indication of causality, but that none of them are perfect for the task. I will also indicate how different types of qualitative and quantitative evidence can be combined to fill in each other’s blind spots. The argument presented is based on collaborative work with Elena Rocca and Stephen Mumford, and work done in the [CauseHealth project](https://causehealthblog.org/).  
 [Relevant works](https://pubmed.ncbi.nlm.nih.gov/32168791/).
 
-
-17 March. 3-4.30pm. [Caterina Marchionni](https://sites.google.com/site/caterinamarchionni/home) (Milan). TBC.
+17 March. 3-4.30pm. [Caterina Marchionni](https://sites.google.com/site/caterinamarchionni/home) (Milan). **Evidence for mechanisms and the challenge of mechanism individuation**.
+> (Joint work with Till Grüne-Yanoff.) Randomized controlled trials (RCTs) are widely used to inform policy decisions in the social and behavioral sciences. Yet both philosophers and scientists have raised doubts about the  of effect-size evidence from RCTs when it comes to policy extrapolation. A common view is that such evidence should be complemented with mechanistic evidence—that is, evidence about how an intervention brings about its effects. While we agree that mechanistic evidence is often essential for extrapolative purposes, we argue that existing literature overlooks a key problem: the challenge of mechanism individuation, namely, determining the appropriate level of abstraction and detail at which to represent a mechanism for a given policy purpose. In this talk, we clarify the nature of this challenge and propose strategies for addressing it.
 
 23 April. 11-12.30pm. [Isabel Hanson](https://www.phc.ox.ac.uk/team/isabel-hanson) (Oxford). TBC.
 
