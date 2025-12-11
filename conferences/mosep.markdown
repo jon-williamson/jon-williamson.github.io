@@ -21,9 +21,8 @@ exclude: true
 See Moult, John and Lindley Darden (2025 preprint), “Critical Assessment of Disease Mechanisms: APOE4 and Alzheimer’s Disease”. DOI: [10.13140/RG.2.2.25832.17927](https://dx.doi.org/10.13140/RG.2.2.25832.17927). See especially Table 1: Evidence Evaluation Criteria.
 
 23 February. 3-4.30pm. [Rani Lill Anjum](https://ranilillanjum.com/) (Norwegian University of Life Sciences). **Combining evidence for establishing causality**.
-> Rani Lill Anjum and Elena Rocca
-Medicine and health science relies on a variety of methods, but do they establish the same thing? It is not uncommon that the available evidence points in different directions with respect to causality. In the standard evidence hierarchy, the priority in case of conflicting evidence is clear. In this presentation, I will argue that the different methods provide some indication of causality, but that none of them are perfect for the task. I will also indicate how different types of qualitative and quantitative evidence can be combined to fill in each other’s blind spots. The argument presented is based on collaborative work with Elena Rocca and Stephen Mumford, and work done in the CauseHealth project (https://causehealthblog.org/).  
-Relevant works: https://pubmed.ncbi.nlm.nih.gov/32168791/
+> Medicine and health science relies on a variety of methods, but do they establish the same thing? It is not uncommon that the available evidence points in different directions with respect to causality. In the standard evidence hierarchy, the priority in case of conflicting evidence is clear. In this presentation, I will argue that the different methods provide some indication of causality, but that none of them are perfect for the task. I will also indicate how different types of qualitative and quantitative evidence can be combined to fill in each other’s blind spots. The argument presented is based on collaborative work with Elena Rocca and Stephen Mumford, and work done in the [CauseHealth project](https://causehealthblog.org/).  
+[Relevant works](https://pubmed.ncbi.nlm.nih.gov/32168791/).
 
 
 17 March. 3-4.30pm. [Caterina Marchionni](https://sites.google.com/site/caterinamarchionni/home) (Milan). TBC.
