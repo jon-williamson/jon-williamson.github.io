@@ -17,7 +17,7 @@ exclude: true
 # 2026
 
 23 January. 3-4.30pm. [Lindley Darden](https://philosophy.umd.edu/directory/lindley-darden) (Maryland). **Evaluating Genetic Disease Mechanism Steps: APOE4 and Alzheimer’s Disease**.
-> Science changes with phases of construct, evaluate, revise, then repeat. For decades (centuries?) philosophers of science have focused primarily on evaluation. A current task is to draw on that previous work to develop criteria to evaluate proposed genetic disease mechanisms in medicine. Rather than evaluating the entire mechanism at the outset, the plan is to evaluate the evidence for key steps individually. The proposed criteria are in these categories: extrapolation, statistical assessment, reproducibility, robustness, plus internal and external coherence. The case study is to find the mechanism(s) by which the APOE4 genetic variant increases the risk of Alzheimer's disease. Philosophers are invited to comment on and help to improve this set of criteria.  
+> (Joint work with John Moult.) Science changes with phases of construct, evaluate, revise, then repeat. For decades (centuries?) philosophers of science have focused primarily on evaluation. A current task is to draw on that previous work to develop criteria to evaluate proposed genetic disease mechanisms in medicine. Rather than evaluating the entire mechanism at the outset, the plan is to evaluate the evidence for key steps individually. The proposed criteria are in these categories: extrapolation, statistical assessment, reproducibility, robustness, plus internal and external coherence. The case study is to find the mechanism(s) by which the APOE4 genetic variant increases the risk of Alzheimer's disease. Philosophers are invited to comment on and help to improve this set of criteria.  
 See Moult, John and Lindley Darden (2025 preprint), “Critical Assessment of Disease Mechanisms: APOE4 and Alzheimer’s Disease”. DOI: [10.13140/RG.2.2.25832.17927](https://dx.doi.org/10.13140/RG.2.2.25832.17927). See especially Table 1: Evidence Evaluation Criteria.
 
 23 February. 3-4.30pm. [Rani Lill Anjum](https://ranilillanjum.com/) (Norwegian University of Life Sciences). **Combining evidence for establishing causality**.
@@ -32,7 +32,9 @@ See Moult, John and Lindley Darden (2025 preprint), “Critical Assessment of Di
 I outline how epistemic uncertainty about the causes of youth mental distress complicates mechanistic accounts of evidence and contrast the relational logic of care that guides these services with the logic of evidence embedded in standardised outcome measures.  
 I conclude by examining the implications for evidential pluralism and for the translation of evidence into policy, including the need for evaluation at the level of the service, the risks of metric driven practice, and invite discussion of opportunities for researchers and philosophers to communicate this complexity to funders and governments seeking reassurance of national level accountability and impact.
 
-26 May. 3-4.30pm. [Nancy Cartwright](https://www.durham.ac.uk/staff/nancy-cartwright/) (Durham & UCSD). TBC.
+26 May. 3-4.30pm. [Nancy Cartwright](https://www.durham.ac.uk/staff/nancy-cartwright/) (Durham & UCSD). 
+
+22 June. 3-4.30pm. [Jacob Stegenga](https://dr.ntu.edu.sg/entities/person/Jacob-Stegenga) (Singapore). 
 
 <center>
 <img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" />
