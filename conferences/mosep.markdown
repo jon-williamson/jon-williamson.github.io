@@ -32,7 +32,8 @@ See Moult, John and Lindley Darden (2025 preprint), “Critical Assessment of Di
 I outline how epistemic uncertainty about the causes of youth mental distress complicates mechanistic accounts of evidence and contrast the relational logic of care that guides these services with the logic of evidence embedded in standardised outcome measures.  
 I conclude by examining the implications for evidential pluralism and for the translation of evidence into policy, including the need for evaluation at the level of the service, the risks of metric driven practice, and invite discussion of opportunities for researchers and philosophers to communicate this complexity to funders and governments seeking reassurance of national level accountability and impact.
 
-26 May. 3-4.30pm. [Nancy Cartwright](https://www.durham.ac.uk/staff/nancy-cartwright/) (Durham & UCSD). 
+26 May. 3-4.30pm. [Nancy Cartwright](https://www.durham.ac.uk/staff/nancy-cartwright/) (Durham & UCSD). **Getting Results Reports Right**.
+> Just how we phrase the results report of an empirical study matters because the form and content of the report suggests what can and cannot be done with the study results and what the study can and cannot provide evidence for. This fact about results reports should not be surprising since, as JL Austin taught, 'We do things with words'. I will argue that getting the report right requires both serious understanding of the empirical and theoretical work in the field and, generally, adopting a clear theoretical perspective, which then needs to be made explicit. I illustrate with examples of education studies and probably medical ones as well. 
 
 22 June. 3-4.30pm. [Jacob Stegenga](https://dr.ntu.edu.sg/entities/person/Jacob-Stegenga) (Singapore). 
 
