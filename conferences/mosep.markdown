@@ -16,10 +16,6 @@ exclude: true
 
 # 2026
 
-23 February. 3-4.30pm. [Rani Lill Anjum](https://ranilillanjum.com/) (Norwegian University of Life Sciences). **Combining evidence for establishing causality**.
-> Medicine and health science relies on a variety of methods, but do they establish the same thing? It is not uncommon that the available evidence points in different directions with respect to causality. In the standard evidence hierarchy, the priority in case of conflicting evidence is clear. In this presentation, I will argue that the different methods provide some indication of causality, but that none of them are perfect for the task. I will also indicate how different types of qualitative and quantitative evidence can be combined to fill in each other’s blind spots. The argument presented is based on collaborative work with Elena Rocca and Stephen Mumford, and work done in the [CauseHealth project](https://causehealthblog.org/).  
-[Relevant works](https://pubmed.ncbi.nlm.nih.gov/32168791/).
-
 17 March. 3-4.30pm. [Caterina Marchionni](https://sites.google.com/site/caterinamarchionni/home) (Milan). **Evidence for mechanisms and the challenge of mechanism individuation**.
 > (Joint work with Till Grüne-Yanoff.) Randomized controlled trials (RCTs) are widely used to inform policy decisions in the social and behavioral sciences. Yet both philosophers and scientists have raised doubts about the  of effect-size evidence from RCTs when it comes to policy extrapolation. A common view is that such evidence should be complemented with mechanistic evidence—that is, evidence about how an intervention brings about its effects. While we agree that mechanistic evidence is often essential for extrapolative purposes, we argue that existing literature overlooks a key problem: the challenge of mechanism individuation, namely, determining the appropriate level of abstraction and detail at which to represent a mechanism for a given policy purpose. In this talk, we clarify the nature of this challenge and propose strategies for addressing it.
 
@@ -33,6 +29,8 @@ I conclude by examining the implications for evidential pluralism and for the tr
 
 22 June. 3-4.30pm. [Jacob Stegenga](https://dr.ntu.edu.sg/entities/person/Jacob-Stegenga) (Singapore). **Simulating Expertise-Based Inference**.
 > The reliability of causal inference based on a physician’s expertise has been a matter of debate. In recent work, Tabatabaei Ghomi and Stegenga developed a model to simulate such inferences in the context of medicine, evaluating a range of conditions under which a physician’s inferences about the effects of a drug are reliable or unreliable (2025). Their main result was that such inferences are not reliable if a disease has some placebo-responsiveness or some natural course of improvement. That model was based on several idealisations, which raises the possibility that their results were in part an artifact of those idealisations. Here, we advance their model by incorporating three key cognitive features of inference-makers: a capacity to modulate their inferences based on background knowledge about the disease being treated, a capacity to take into account their prior confidence in an intervention, and a liability to confirmation bias. Our results yield novel insights that extend and refine those from the original model.
+
+6 July. 3-4.30pm. [Donald Gillies](https://profiles.ucl.ac.uk/779-donald-gillies) (UCL). **Evidential Pluralism and Contemporary AI**.
 
 <center>
 <img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" />
@@ -80,6 +78,10 @@ We argue that this narrow conception ignores the extensive volume of knowledge t
 23 January. 3-4.30pm. [Lindley Darden](https://philosophy.umd.edu/directory/lindley-darden) (Maryland). **Evaluating Genetic Disease Mechanism Steps: APOE4 and Alzheimer’s Disease**.
 > (Joint work with John Moult.) Science changes with phases of construct, evaluate, revise, then repeat. For decades (centuries?) philosophers of science have focused primarily on evaluation. A current task is to draw on that previous work to develop criteria to evaluate proposed genetic disease mechanisms in medicine. Rather than evaluating the entire mechanism at the outset, the plan is to evaluate the evidence for key steps individually. The proposed criteria are in these categories: extrapolation, statistical assessment, reproducibility, robustness, plus internal and external coherence. The case study is to find the mechanism(s) by which the APOE4 genetic variant increases the risk of Alzheimer's disease. Philosophers are invited to comment on and help to improve this set of criteria.  
 See Moult, John and Lindley Darden (2025 preprint), “Critical Assessment of Disease Mechanisms: APOE4 and Alzheimer’s Disease”. DOI: [10.13140/RG.2.2.25832.17927](https://dx.doi.org/10.13140/RG.2.2.25832.17927). See especially Table 1: Evidence Evaluation Criteria.
+
+23 February. 3-4.30pm. [Rani Lill Anjum](https://ranilillanjum.com/) (Norwegian University of Life Sciences). **Combining evidence for establishing causality**.
+> Medicine and health science relies on a variety of methods, but do they establish the same thing? It is not uncommon that the available evidence points in different directions with respect to causality. In the standard evidence hierarchy, the priority in case of conflicting evidence is clear. In this presentation, I will argue that the different methods provide some indication of causality, but that none of them are perfect for the task. I will also indicate how different types of qualitative and quantitative evidence can be combined to fill in each other’s blind spots. The argument presented is based on collaborative work with Elena Rocca and Stephen Mumford, and work done in the [CauseHealth project](https://causehealthblog.org/).  
+[Relevant works](https://pubmed.ncbi.nlm.nih.gov/32168791/).
 
 <center>
 <img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" />
