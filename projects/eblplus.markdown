@@ -54,6 +54,8 @@ Michael Wilde & Jon Williamson: **Evidential Pluralism and IARC**,  _IARC Monogr
 
 We organise a series of [**Manchester online seminars on Evidential Pluralism**](/mosep). 
 
+23-24 April 2026. [**New approaches to evidence: perspectives on Evidential Pluralism**](https://natevidence.blogs.uv.es/new-approaches-to-evidence-perspectives-on-evidential-pluralism/). University of Valencia. Organised by Saúl Pérez-González .
+
 20 June 2025. **Workshop on evidence-based law**. University of Manchester. Organised by Alexandra Trofimov.
 >9.15-9.30am: Arrival/registration  
 9.30-10.30am: Jon Williamson (Manchester): ‘Applying Evidential Pluralism to Evidence-Based Law: EBL+’  
