@@ -37,9 +37,11 @@ This project is supported by the new [UKRI interdisciplinary scheme](https://www
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
 </center>
 
-# Publications
+# Publications 
 
 Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approach to Evidence Synthesis**, _The Reasoner_ 19(2). doi: [10.54103/1757-0522/28330](https://doi.org/10.54103/1757-0522/28330)
+
+See [this page](https://research.manchester.ac.uk/en/projects/interdisciplinary-systematic-review-mechanistic-evidence-and-epis/) for other publications.
 
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
@@ -49,7 +51,10 @@ Sahanika Ratnayake (2025). **Interdisciplinary Systematic Review: A Novel Approa
 
 13 November 2025. [**Qualitative evidence in systematic review**](/conferences/qesr.html). 1-5.30pm. 
 
-We also organise a series of [**Manchester online seminars on Evidential Pluralism**](/mosep). 
+[**Manchester online seminars on Evidential Pluralism**](/mosep). 
+
+See [this page](https://research.manchester.ac.uk/en/projects/interdisciplinary-systematic-review-mechanistic-evidence-and-epis/) for other events.
+
 
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>

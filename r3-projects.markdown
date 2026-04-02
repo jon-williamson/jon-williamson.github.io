@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 
-<img align="right" width="200" src="images/keep-calm.jpg"> [**Interdisciplinary Systematic Review: mechanistic evidence and epistemic justice**](/projects/isr) (UKRI 2025-27)
+<img align="right" width="200" src="images/keep-calm.jpg"> [**Interdisciplinary Systematic Review: mechanistic evidence and epistemic justice**](https://research.manchester.ac.uk/en/projects/interdisciplinary-systematic-review-mechanistic-evidence-and-epis/) (UKRI 2025-27)
 
 [**EBL+: New philosophical foundations for evidence-based law**](/projects/eblplus) (Leverhulme Trust 2023-26)
 
