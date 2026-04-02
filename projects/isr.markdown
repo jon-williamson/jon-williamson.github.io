@@ -55,7 +55,6 @@ See [this page](https://research.manchester.ac.uk/en/projects/interdisciplinary-
 
 See [this page](https://research.manchester.ac.uk/en/projects/interdisciplinary-systematic-review-mechanistic-evidence-and-epis/) for other events.
 
-
 <center>
 <a href="images/divider-horizontal.jpg"><img  src="images/divider-horizontal.jpg" alt="" width="50"   border="0" /></a>
 </center>
