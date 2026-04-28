@@ -60,6 +60,23 @@ We organise a series of [**Manchester online seminars on Evidential Pluralism**]
 
 23-24 April 2026. [**New approaches to evidence: perspectives on Evidential Pluralism**](https://natevidence.blogs.uv.es/new-approaches-to-evidence-perspectives-on-evidential-pluralism/). University of Valencia. 
 
+30 January 2026. Jon Williamson. **Causal inference is not statistical inference: how Evidential Pluralism mitigates the replication crisis**. Hong Kong University of Science and Technology.
+
+4 December 2025. Jon Williamson. **Evidential Pluralism as a framework for considering modelling studies in systematic reviews**. [Analogies, external validity and the future of experimental modeling across sciences](https://viennaanalogiesworkshop.wordpress.com/about/), University of Vienna.
+
+21 November 2025. Jon Williamson. **Causal inference is not statistical inference: how Evidential Pluralism mitigates the replication crisis**. [Philosophy of Science Workshop](https://www.uib.no/en/fof/179838/bergen-philosophy-science-workshop-i), University of Bergen.
+
+5 November 2025. Jon Williamson. **How Evidential Pluralism mitigates the replication crisis**. Centre for Theoretical Philosophy, University of Leeds.
+
+16 October 2025. Jon Williamson. **Causal inference is not statistical inference**. Philosophy Department, University of Liverpool.
+
+11 September 2025. **Symposium on the pros and cons of Evidential Pluralism in the Social Sciences**. [European Network for Philosophy of the Social Sciences](https://enposs.eu/wordpress/wp-content/uploads/2025/06/Programme-ENPOSS-2025.pdf) (ENPOSS), Ca’ Foscari University of Venice.
+> Jon Williamson – Can Evidential Pluralism mitigate bias and motivated reasoning?  
+ Alexandra Trofimov – How Evidential Pluralism Mitigates Epistemic Injustice in Evidence-Based Evaluation.  
+Rosa W Runhardt & Corrado Matta – Is the Idea of an Educational Mechanism Vacuous? Pluralism, Evidence, and Educational Contexts.
+
+8 September 2025. Jon Williamson. **Causal inference and the replication crisis**. Epistemology of Science conference, University of Mainz.
+
 20 June 2025. **Workshop on evidence-based law**. University of Manchester. Organised by Alexandra Trofimov.
 >9.15-9.30am: Arrival/registration  
 9.30-10.30am: Jon Williamson (Manchester): ‘Applying Evidential Pluralism to Evidence-Based Law: EBL+’  
@@ -72,7 +89,7 @@ We organise a series of [**Manchester online seminars on Evidential Pluralism**]
 
 <!-- Speakers: John Coggon (Bristol, Law), Lucy Frith (Manchester, Law), Rebecca Helm (Exeter, Law), Alexandra Trofimov (Manchester, Philosophy), Michael Wilde (Kent, KMMS) !-->
 
-18 June 2023. Alexandra Trofimov. **Evidence and epistemic injustice.** Addressing Causal Questions in Higher Education Evaluation, LSE.
+18 June 2025. Alexandra Trofimov. **Evidence and epistemic injustice.** Addressing Causal Questions in Higher Education Evaluation, LSE.
 
 19-23 May 2025. Alexandra Trofimov and Joe Walsh. **Mitigating bias by systematically integrating heterogeneous evidence using Evidential Pluralism.** [UK Evaluation Conference 2025](https://evaluation.org.uk/community-learning/events/evaluation-conference/)
 

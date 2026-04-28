@@ -22,7 +22,9 @@ exclude: true
 22 June. 3-4.30pm. [Jacob Stegenga](https://dr.ntu.edu.sg/entities/person/Jacob-Stegenga) (Singapore). **Simulating Expertise-Based Inference**.
 > The reliability of causal inference based on a physician’s expertise has been a matter of debate. In recent work, Tabatabaei Ghomi and Stegenga developed a model to simulate such inferences in the context of medicine, evaluating a range of conditions under which a physician’s inferences about the effects of a drug are reliable or unreliable (2025). Their main result was that such inferences are not reliable if a disease has some placebo-responsiveness or some natural course of improvement. That model was based on several idealisations, which raises the possibility that their results were in part an artifact of those idealisations. Here, we advance their model by incorporating three key cognitive features of inference-makers: a capacity to modulate their inferences based on background knowledge about the disease being treated, a capacity to take into account their prior confidence in an intervention, and a liability to confirmation bias. Our results yield novel insights that extend and refine those from the original model.
 
-6 July. 3-4.30pm. [Donald Gillies](https://profiles.ucl.ac.uk/779-donald-gillies) (UCL). **Evidential Pluralism and Contemporary AI**.
+6 July. 3-4.30pm. TBC.
+
+TBC. [Donald Gillies](https://profiles.ucl.ac.uk/779-donald-gillies) (UCL). **Evidential Pluralism and Contemporary AI**.
 
 <center>
 <img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" />
