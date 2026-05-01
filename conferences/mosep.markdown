@@ -16,7 +16,7 @@ exclude: true
 
 # 2026
 
-26 May. 3-4.30pm. [María Jiménez Buedo](https://www.uned.es/universidad/docentes/en/filosofia/maria-jimenez-buedo.html) (UNED) & [Saúl Pérez-González](https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=saulpe4) (València) Mechanism-based explanation in Analytical Sociology
+26 May. 3-4.30pm. [María Jiménez Buedo](https://www.uned.es/universidad/docentes/en/filosofia/maria-jimenez-buedo.html) (UNED) & [Saúl Pérez-González](https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=saulpe4) (València): **Mechanism-based explanation in Analytical Sociology**
 > One of the main defining features of current analytical sociology is its emphasis in the centrality of mechanisms in the social science Its core principle is that social scientific explanation is primarily achieved through the identification and description of social mechanisms. These mechanisms often aggregate individual actions to form macro phenomena. Following this idea, the founders of analytical sociology conceived the future of the discipline as one in which there would be a panoply of available mechanism schema that would collectively constitute a catalogue of available explanations for social phenomena. The paper takes issue with the idea of the catalogue of mechanisms and examines the promises but also the difficulties that the idea entails and assesses the extent to which the catalogue does currently play the role envisioned by early analytical sociologists.
 
 22 June. 3-4.30pm. [Jacob Stegenga](https://dr.ntu.edu.sg/entities/person/Jacob-Stegenga) (Singapore). **Simulating Expertise-Based Inference**.
