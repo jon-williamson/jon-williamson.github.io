@@ -60,6 +60,8 @@ We organise a series of [**Manchester online seminars on Evidential Pluralism**]
 
 23-24 April 2026. [**New approaches to evidence: perspectives on Evidential Pluralism**](https://natevidence.blogs.uv.es/new-approaches-to-evidence-perspectives-on-evidential-pluralism/). University of Valencia. 
 
+13 March 2026. Alexandra Trofimov. **How Evidential Pluralism Mitigates Epistemic Injustice in Evidence-Based Evaluation**. Justice in Healthcare Student Conference, Kent and Medway Medical School. 
+
 30 January 2026. Jon Williamson. **Causal inference is not statistical inference: how Evidential Pluralism mitigates the replication crisis**. Hong Kong University of Science and Technology.
 
 4 December 2025. Jon Williamson. **Evidential Pluralism as a framework for considering modelling studies in systematic reviews**. [Analogies, external validity and the future of experimental modeling across sciences](https://viennaanalogiesworkshop.wordpress.com/about/), University of Vienna.
