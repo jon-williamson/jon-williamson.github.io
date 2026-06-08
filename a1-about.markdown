@@ -11,7 +11,7 @@ I work on the philosophy of causality, the foundations of probability, formal ep
 - Address: Department of Philosophy, Humanities Bridgeford Street, The University of Manchester, Oxford Road, Manchester, M13 9PL
 - Email addresses at Manchester take the form firstname.lastname at manchester.ac.uk
 
-I'm also Honorary Professor of Philosophy of Science and Medicine at [University College London](https://www.ucl.ac.uk/sts/) and Honorary Professor of Philosophy at the University of Kent, where I was Professor of Reasoning, Inference and Scientific Method until December 2024.
+I was previously Professor of Reasoning, Inference and Scientific Method at the University of Kent until December 2024.
 
 
 
