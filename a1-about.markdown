@@ -13,5 +13,7 @@ I work on the philosophy of causality, the foundations of probability, formal ep
 
 I was previously Professor of Reasoning, Inference and Scientific Method at the University of Kent until December 2024.
 
+My ORCID ID is [0000-0003-0514-4209](https://orcid.org/0000-0003-0514-4209).
+
 
 
