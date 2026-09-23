@@ -28,6 +28,9 @@ _Asian Journal of Philosophy_ published a [symposium on the book](https://link.s
 - [**Responses to criticisms**](https://doi.org/10.1007/s44204-025-00302-x), _Asian Journal of Philosophy_ 4(2):80, 2025. Doi [110.1007/s44204-025-00302-x](https://doi.org/10.1007/s44204-025-00302-x)
 <br/><br/>
 
+__Collection__:
+
+[**New Directions for Evidential Pluralism**](https://link.springer.com/collections/jjafcdeecf), co-edited with Saúl Pérez González. Please submit your paper by 30 June 2027.
 
 **Articles**:
 
