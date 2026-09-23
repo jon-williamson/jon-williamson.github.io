@@ -8,10 +8,8 @@ I work on the philosophy of causality, the foundations of probability, formal ep
 
 <img style="float: right;" src="/images/jw.jpg" alt="" width="200"  />I'm [Samuel Hall Chair of Philosophy](https://research.manchester.ac.uk/en/persons/jon-williamson) at the University of Manchester. 
 - My office is 2.43 in the [Humanities Bridgeford Street Building](https://www.manchester.ac.uk/about/maps/interactive-map/?id=32). [///voices.robots.these](https://w3w.co/voices.robots.these)
-- Address: Department of Philosophy, Humanities Bridgeford Street, The University of Manchester, Oxford Road, Manchester, M13 9PL
+- Address: Department of Philosophy, Humanities Bridgeford Street, The University of Manchester, Oxford Road, Manchester, M13 9PL, UK
 - Email addresses at Manchester take the form firstname.lastname at manchester.ac.uk
-
-I was previously Professor of Reasoning, Inference and Scientific Method at the University of Kent until December 2024.
 
 My ORCID ID is [0000-0003-0514-4209](https://orcid.org/0000-0003-0514-4209).
 
