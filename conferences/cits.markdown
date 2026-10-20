@@ -7,10 +7,13 @@ exclude: true
 
 ### Forthcoming Conferences
 
-**CauseMed 2026: [Causality and Causal Inference in Medicine](http://eventos.us.es/go/causemed)**  
-University of Seville, 8-9 October 2026
+**CaEitS 2027: [Causal Explanation in the Sciences](https://sites.google.com/stevens.edu/caeits2027/)**  
+University College London, 19-21 May 2027
 
 ### Past Conferences
+
+**CauseMed 2026: [Causality and Causal Inference in Medicine](http://eventos.us.es/go/causemed)**  
+University of Seville, 8-9 October 2026
 
 **EpiCause 2024:** [**Causality in Epidemiology**](https://www.jku.at/en/institute-of-philosophy-and-scientific-method/epicause-2024/)  
 Johannes Kepler University, Linz, 2-4 May 2024

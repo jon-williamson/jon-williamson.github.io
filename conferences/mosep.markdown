@@ -17,6 +17,12 @@ exclude: true
 # 2026
 
 26 October, 3.30-5pm. [Jeffrey Aronson](https://www.phc.ox.ac.uk/team/jeffrey-aronson) (Oxford). **Pharmacological mechanisms and drug regulation**.
+> A whistle-stop tour of pharmacological mechanisms, including:
+- Definition
+- Classifications according to character, temporality, and types of outputs
+- The nature of dose-responsiveness
+- Evidence for a mechanism and evidence from a mechanism (disambiguating the term "evidence of mechanism")
+- Relevance to drug regulation
 
 
 7 December, 3.30-5pm. [Donald Gillies](https://profiles.ucl.ac.uk/779-donald-gillies) (UCL). **Evidential Pluralism and Contemporary AI**.
