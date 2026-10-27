@@ -30,7 +30,7 @@ due to the
 - path-dependence
 - initial condition-dependence
 - chance-event-dependence
-- (and more…)
+- (and more…)  
 of the unfolding of events that determine the numbers of new infections over the course of weeks/
 months/years, there are no true counterfactual generalizations of the kinds that might support clear-
 cut answers to these causal questions questions. The case of face masks and covid-19 is not unique,
