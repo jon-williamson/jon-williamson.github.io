@@ -31,14 +31,9 @@ due to the
 - initial condition-dependence
 - chance-event-dependence
 - (and more…)  
-of the unfolding of events that determine the numbers of new infections over the course of weeks/
-months/years, there are no true counterfactual generalizations of the kinds that might support clear-
-cut answers to these causal questions questions. The case of face masks and covid-19 is not unique,
-I will suggest, but it is a case that makes the general problem of unanswerable general-causal
-questions particularly vivid.  
-After arguing for this theoretical conclusion, I will briefly address the potential philosophical
-implications of my arguments, as well as the implications for public policy decisions concerning
-face masking mandates.
+
+> of the unfolding of events that determine the numbers of new infections over the course of weeks/months/years, there are no true counterfactual generalizations of the kinds that might support clear-cut answers to these causal questions questions. The case of face masks and covid-19 is not unique, I will suggest, but it is a case that makes the general problem of unanswerable general-causal questions particularly vivid.  
+After arguing for this theoretical conclusion, I will briefly address the potential philosophical implications of my arguments, as well as the implications for public policy decisions concerning face masking mandates.
 
 7 December, 3.30-5pm. [Donald Gillies](https://profiles.ucl.ac.uk/779-donald-gillies) (UCL). **Evidential Pluralism and Contemporary AI**.
 > Although deep learning systems can produce remarkably accurate predictions in some cases, the models which they learn in order to produce these predictions are not humanly comprehensible.  These models cannot therefore be integrated into human science, and this seems to preclude the possibility of evidence from other areas of science being brought to bear as regards the empirical confirmation of the predictions of a deep learning system, that is to say, to rule out evidential pluralism in this case.  However, there is a possible way out of this difficulty which is explored in the present paper.  The databases used to train a neural network are perfectly comprehensible to humans.  A human analysis of such databases and how they are used, including considerations of the design of the neural networks employed, could be made, and this might yield a different type of evidence.  Thus, one would have two types of evidence, namely (i) evidence from machine learning and (ii) evidence from human database analysis.  Evidence of type (ii) could be used to strengthen or correct evidence of type (i).  In this way, the advantages of evidential pluralism might be extended to deep learning. 
