@@ -32,7 +32,7 @@ due to the
 - chance-event-dependence
 - (and more…)  
 
-> of the unfolding of events that determine the numbers of new infections over the course of weeks/months/years, there are no true counterfactual generalizations of the kinds that might support clear-cut answers to these causal questions questions. The case of face masks and covid-19 is not unique, I will suggest, but it is a case that makes the general problem of unanswerable general-causal questions particularly vivid.  
+> of the unfolding of events that determine the numbers of new infections over the course of weeks/months/years, there are no true counterfactual generalizations of the kinds that might support clear-cut answers to these causal questions. The case of face masks and covid-19 is not unique, I will suggest, but it is a case that makes the general problem of unanswerable general-causal questions particularly vivid.  
 After arguing for this theoretical conclusion, I will briefly address the potential philosophical implications of my arguments, as well as the implications for public policy decisions concerning face masking mandates.
 
 7 December, 3.30-5pm. [Donald Gillies](https://profiles.ucl.ac.uk/779-donald-gillies) (UCL). **Evidential Pluralism and Contemporary AI**.
