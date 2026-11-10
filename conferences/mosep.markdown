@@ -16,27 +16,14 @@ exclude: true
 
 # 2026
 
-9 November, 3.30-5pm. [Carl Hoefer](https://www.ub.edu/grc_logos/author/carl-hoefer1/) (Barcelona). **Are some general causal questions unanswerable? The case of face-mask mandates**.
->  In this paper I will argue that the question “Does mandating the general public wear face
-masks (of type X) in indoor public settings reduce the rate of spread of covid-19?”, and many
-nearby causal questions concerning the efficacy of face-masking as an NPI, are unanswerable. The
-claim is not that we simply have not yet done the right number or kind of studies in order to answer
-it. Nor is my claim that they are unanswerable because of some epistemic limitation of ours (i.e., the
-answer is out there, we just can’t grasp it); but rather because all definite answers are wrong and
-unjustifiable.  
-These questions are essentially dependent on counterfactuals to provide clear answers. But
-due to the
-- causal complexity
-- path-dependence
-- initial condition-dependence
-- chance-event-dependence
-- (and more…)  
-
-> of the unfolding of events that determine the numbers of new infections over the course of weeks/months/years, there are no true counterfactual generalizations of the kinds that might support clear-cut answers to these causal questions. The case of face masks and covid-19 is not unique, I will suggest, but it is a case that makes the general problem of unanswerable general-causal questions particularly vivid.  
-After arguing for this theoretical conclusion, I will briefly address the potential philosophical implications of my arguments, as well as the implications for public policy decisions concerning face masking mandates.
-
 7 December, 3.30-5pm. [Donald Gillies](https://profiles.ucl.ac.uk/779-donald-gillies) (UCL). **Evidential Pluralism and Contemporary AI**.
 > Although deep learning systems can produce remarkably accurate predictions in some cases, the models which they learn in order to produce these predictions are not humanly comprehensible.  These models cannot therefore be integrated into human science, and this seems to preclude the possibility of evidence from other areas of science being brought to bear as regards the empirical confirmation of the predictions of a deep learning system, that is to say, to rule out evidential pluralism in this case.  However, there is a possible way out of this difficulty which is explored in the present paper.  The databases used to train a neural network are perfectly comprehensible to humans.  A human analysis of such databases and how they are used, including considerations of the design of the neural networks employed, could be made, and this might yield a different type of evidence.  Thus, one would have two types of evidence, namely (i) evidence from machine learning and (ii) evidence from human database analysis.  Evidence of type (ii) could be used to strengthen or correct evidence of type (i).  In this way, the advantages of evidential pluralism might be extended to deep learning. 
+
+# 2027
+
+18 January, 3.30-5pm. [Trish Greenhalgh](https://www.phc.ox.ac.uk/team/trish-greenhalgh) (Oxford). **New just-so stories needed**.
+> Philosophers of science who are sceptical about evidential pluralism (notably, Jeremy Howick and Bennet Holman) have rightly cautioned against “just-so stories”—plausible-sounding mechanistic accounts which distort our scientific understanding. The usual example cited is lignocaine—a heart drug which was assumed (based on a plausible biochemical story) to cure cardiac arrhythmias but which turned out to cause such arrhythmias, with fatal consequences. But lignocaine is an old and tired example, and no doctor has prescribed it as an anti-arrhythmic in decades. If just-so stories are such a big deal, there should be plenty of newer, fresher examples. This talk will present one such example—of how SARS-CoV-2 (the virus that causes COVID-19) was thought to infect the eye.
+
 
 <center>
 <img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" />
@@ -113,6 +100,19 @@ I conclude by examining the implications for evidential pluralism and for the tr
 - The nature of dose-responsiveness
 - Evidence for a mechanism and evidence from a mechanism (disambiguating the term "evidence of mechanism")
 - Relevance to drug regulation
+
+9 November, 3.30-5pm. [Carl Hoefer](https://www.ub.edu/grc_logos/author/carl-hoefer1/) (Barcelona). **Are some general causal questions unanswerable? The case of face-mask mandates**.
+>  In this paper I will argue that the question “Does mandating the general public wear face masks (of type X) in indoor public settings reduce the rate of spread of covid-19?”, and many nearby causal questions concerning the efficacy of face-masking as an NPI, are unanswerable. The claim is not that we simply have not yet done the right number or kind of studies in order to answer it. Nor is my claim that they are unanswerable because of some epistemic limitation of ours (i.e., the answer is out there, we just can’t grasp it); but rather because all definite answers are wrong and unjustifiable.  
+These questions are essentially dependent on counterfactuals to provide clear answers. But
+due to the
+- causal complexity
+- path-dependence
+- initial condition-dependence
+- chance-event-dependence
+- (and more…)  
+
+> of the unfolding of events that determine the numbers of new infections over the course of weeks/months/years, there are no true counterfactual generalizations of the kinds that might support clear-cut answers to these causal questions. The case of face masks and covid-19 is not unique, I will suggest, but it is a case that makes the general problem of unanswerable general-causal questions particularly vivid.  
+After arguing for this theoretical conclusion, I will briefly address the potential philosophical implications of my arguments, as well as the implications for public policy decisions concerning face masking mandates.
 
 <center>
 <img  src="/projects/images/divider.jpg" alt="" width="24" height="50"  border="0" />
